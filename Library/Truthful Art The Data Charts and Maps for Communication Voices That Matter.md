@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Truthful Art, The: Data, Charts, and Maps for Communication (Voices That Matter)"
+author: "Alberto Cairo"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780321934079"
+year_published: 2016.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2017/10/29"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2017
+month_finished: "2017-10"
 
-rating: 5
+rating: 4
 format: ""
-pages: 468.0
+pages: 400.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Truthful Art The Data Charts and Maps for Communication Voices That Matter.jpg"
 ---
 
 ```dataviewjs

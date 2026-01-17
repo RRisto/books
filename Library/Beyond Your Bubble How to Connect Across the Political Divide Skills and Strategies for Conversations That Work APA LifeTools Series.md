@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Beyond Your Bubble: How to Connect Across the Political Divide, Skills and Strategies for Conversations That Work (APA LifeTools Series)"
+author: "Tania Israel"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781433833687"
+year_published: 2020.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2023/05/14"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2023
+month_finished: "2023-05"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 178.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Beyond Your Bubble How to Connect Across the Political Divide Skills and Strategies for Conversations That Work APA LifeTools Series.jpg"
 ---
 
 ```dataviewjs

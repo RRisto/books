@@ -1,26 +1,20 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
-
-isbn13: "9789985589205"
-year_published: 2022.0
-
+title: "Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan"
+author: John K. Kruschke
+isbn13: ""
+year_published: 2015
 date_started: ""
-date_finished: "2026/01/01"
-
-year_finished: 2026
-month_finished: "2026-01"
-
+date_finished: 2016/08/25
+year_finished: 2016
+month_finished: 2016-08
 rating: 5
 format: ""
-pages: 468.0
+pages: 252
 language: ""
-
 tags:
   - book
-
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: Books/covers/Doing Bayesian Data Analysis A Tutorial with R JAGS and Stan.jpg
 ---
 
 ```dataviewjs

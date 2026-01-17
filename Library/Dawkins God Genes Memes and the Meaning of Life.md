@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Dawkins' God: Genes, Memes, and the Meaning of Life"
+author: "Alister E. McGrath"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781405125383"
+year_published: 2004.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2022/02/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2022
+month_finished: "2022-02"
 
-rating: 5
+rating: 3
 format: ""
-pages: 468.0
+pages: 210.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Dawkins God Genes Memes and the Meaning of Life.jpg"
 ---
 
 ```dataviewjs

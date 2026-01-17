@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die"
+author: "Eric Siegel"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781118356852"
+year_published: 2013.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2016/05/30"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2016
+month_finished: "2016-05"
 
-rating: 5
+rating: 4
 format: ""
-pages: 468.0
+pages: 320.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Predictive Analytics The Power to Predict Who Will Click Buy Lie or Die.jpg"
 ---
 
 ```dataviewjs

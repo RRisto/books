@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The Art of Learning: A Journey in the Pursuit of Excellence"
+author: "Josh Waitzkin"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780743277457"
+year_published: 2007.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2024/02/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2024
+month_finished: "2024-02"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 265.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The Art of Learning A Journey in the Pursuit of Excellence.jpg"
 ---
 
 ```dataviewjs

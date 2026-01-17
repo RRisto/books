@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Mindset: The New Psychology of Success"
+author: "Carol S. Dweck"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: ""
+year_published: 2006.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "nan"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 0
+month_finished: ""
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 276.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Mindset The New Psychology of Success.jpg"
 ---
 
 ```dataviewjs

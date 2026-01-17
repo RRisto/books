@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The Beginning of Infinity: Explanations That Transform the World"
+author: "David Deutsch"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780670022755"
+year_published: 2011.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2025/09/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2025
+month_finished: "2025-09"
 
-rating: 5
+rating: 4
 format: ""
-pages: 468.0
+pages: 487.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The Beginning of Infinity Explanations That Transform the World.jpg"
 ---
 
 ```dataviewjs

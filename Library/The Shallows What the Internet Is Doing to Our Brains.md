@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The Shallows: What the Internet Is Doing to Our Brains"
+author: "Nicholas Carr"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780393357820"
+year_published: 2020.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2023/07/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2023
+month_finished: "2023-07"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 320.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The Shallows What the Internet Is Doing to Our Brains.jpg"
 ---
 
 ```dataviewjs

@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Consider a Spherical Cow: A Course in Environmental Problem Solving"
+author: "John   Harte"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780935702583"
+year_published: 1988.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2025/11/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2025
+month_finished: "2025-11"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 238.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Consider a Spherical Cow A Course in Environmental Problem Solving.jpg"
 ---
 
 ```dataviewjs

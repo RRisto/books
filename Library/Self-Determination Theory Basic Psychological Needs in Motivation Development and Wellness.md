@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness"
+author: "Richard M. Ryan"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781462528769"
+year_published: 2017.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2022/09/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2022
+month_finished: "2022-09"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 756.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Self-Determination Theory Basic Psychological Needs in Motivation Development and Wellness.jpg"
 ---
 
 ```dataviewjs

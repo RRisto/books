@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The Insect Crisis: Our Fragile Dependence on the Planet's Smallest Creatures, A New Scientist Book of the Year"
+author: "Oliver Milman"
 
-isbn13: "9789985589205"
+isbn13: "9781838951184"
 year_published: 2022.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2023/08/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2023
+month_finished: "2023-08"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 340.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The Insect Crisis Our Fragile Dependence on the Planets Smallest Creatures A New Scientist Book of the Year.jpg"
 ---
 
 ```dataviewjs

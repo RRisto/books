@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Deep Work: Rules for Focused Success in a Distracted World"
+author: "Cal Newport"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781455586691"
+year_published: 2016.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2016/06/05"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2016
+month_finished: "2016-06"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 296.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Deep Work Rules for Focused Success in a Distracted World.jpg"
 ---
 
 ```dataviewjs

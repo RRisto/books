@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "All We Can Save: Truth, Courage, and Solutions for the Climate Crisis"
+author: "Ayana Elizabeth Johnson"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780593237069"
+year_published: 2020.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2024/12/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2024
+month_finished: "2024-12"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 419.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/All We Can Save Truth Courage and Solutions for the Climate Crisis.jpg"
 ---
 
 ```dataviewjs

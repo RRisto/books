@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The Net and the Butterfly: The Art and Practice of Breakthrough Thinking"
+author: "Olivia Fox Cabane"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781591847199"
+year_published: 2017.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "nan"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 0
+month_finished: ""
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 288.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The Net and the Butterfly The Art and Practice of Breakthrough Thinking.jpg"
 ---
 
 ```dataviewjs

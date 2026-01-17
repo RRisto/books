@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Beyond Measure: The Hidden History of Measurement from Cubits to Quantum Constants"
+author: "James  Vincent"
 
-isbn13: "9789985589205"
+isbn13: "9781324035855"
 year_published: 2022.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2022/12/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2022
+month_finished: "2022-12"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 432.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Beyond Measure The Hidden History of Measurement from Cubits to Quantum Constants.jpg"
 ---
 
 ```dataviewjs

@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Mind and Nature: A Necessary Unity (Advances in Systems Theory, Complexity, and the Human Sciences)"
+author: "Gregory Bateson"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781572734340"
+year_published: 2002.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "nan"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 0
+month_finished: ""
 
-rating: 5
+rating: 4
 format: ""
-pages: 468.0
+pages: 220.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Mind and Nature A Necessary Unity Advances in Systems Theory Complexity and the Human Sciences.jpg"
 ---
 
 ```dataviewjs

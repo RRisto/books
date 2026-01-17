@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Beyond Infinity: An Expedition to the Outer Limits of Mathematics"
+author: "Eugenia Cheng"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780465094820"
+year_published: 2017.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2023/07/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2023
+month_finished: "2023-07"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 304.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Beyond Infinity An Expedition to the Outer Limits of Mathematics.jpg"
 ---
 
 ```dataviewjs

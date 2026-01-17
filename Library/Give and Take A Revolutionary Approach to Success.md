@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Give and Take: A Revolutionary Approach to Success"
+author: "Adam M. Grant"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780670026555"
+year_published: 2013.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2024/02/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2024
+month_finished: "2024-02"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 320.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Give and Take A Revolutionary Approach to Success.jpg"
 ---
 
 ```dataviewjs

@@ -1,10 +1,10 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Ülekohtu toimikud"
+author: "Heino Tõnismägi"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9789985883112"
+year_published: 1998.0
 
 date_started: ""
 date_finished: "2026/01/01"
@@ -14,13 +14,13 @@ month_finished: "2026-01"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 181.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Ülekohtu toimikud.jpg"
 ---
 
 ```dataviewjs

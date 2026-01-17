@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Artificial Intelligence: A Guide for Thinking Humans"
+author: "Melanie  Mitchell"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780374257835"
+year_published: 2019.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2023/04/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2023
+month_finished: "2023-04"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 336.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Artificial Intelligence A Guide for Thinking Humans.jpg"
 ---
 
 ```dataviewjs

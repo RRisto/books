@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Saving Us: A Climate Scientist's Case for Hope and Healing in a Divided World"
+author: "Katharine Hayhoe"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781982143855"
+year_published: 2021.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2022/06/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2022
+month_finished: "2022-06"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 318.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Saving Us A Climate Scientists Case for Hope and Healing in a Divided World.jpg"
 ---
 
 ```dataviewjs

@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet"
+author: "Diana Rodgers"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781950665112"
+year_published: 2020.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2022/05/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2022
+month_finished: "2022-05"
 
-rating: 5
+rating: 4
 format: ""
-pages: 468.0
+pages: 337.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Sacred Cow The Case for Better Meat Why Well-Raised Meat Is Good for You and Good for the Planet.jpg"
 ---
 
 ```dataviewjs

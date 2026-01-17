@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Eesti metsade alternatiivne hindamine"
+author: "Lembit Maamets"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9789916712931"
+year_published: 2023.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2023/09/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2023
+month_finished: "2023-09"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 232.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Eesti metsade alternatiivne hindamine.jpg"
 ---
 
 ```dataviewjs

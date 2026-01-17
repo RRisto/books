@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Algorithms Illuminated (Part 3): Greedy Algorithms and Dynamic Programming"
+author: "Tim Roughgarden"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780999282953"
+year_published: 2019.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "nan"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 0
+month_finished: ""
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 231.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Algorithms Illuminated Part 3 Greedy Algorithms and Dynamic Programming.jpg"
 ---
 
 ```dataviewjs

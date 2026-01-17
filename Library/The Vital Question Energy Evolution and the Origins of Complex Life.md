@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The Vital Question: Energy, Evolution, and the Origins of Complex Life"
+author: "Nick Lane"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780393352979"
+year_published: 2016.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2025/11/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2025
+month_finished: "2025-11"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 368.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The Vital Question Energy Evolution and the Origins of Complex Life.jpg"
 ---
 
 ```dataviewjs

@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Mida inimesed õpivad"
+author: "Juri Lotman"
 
-isbn13: "9789985589205"
+isbn13: "9789985778524"
 year_published: 2022.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2025/04/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2025
+month_finished: "2025-04"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 383.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Mida inimesed õpivad.jpg"
 ---
 
 ```dataviewjs

@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The New Six-Point Plan for Raising Happy, Healthy Children (Volume 13) (John Rosemond)"
+author: "John Rosemond"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780740760778"
+year_published: 2006.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2024/09/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2024
+month_finished: "2024-09"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 328
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The New Six-Point Plan for Raising Happy Healthy Children Volume 13 John Rosemond.jpg"
 ---
 
 ```dataviewjs

@@ -1,26 +1,20 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
-
-isbn13: "9789985589205"
-year_published: 2022.0
-
+title: "Ökoloog Olevi Kull: Et headel inimestel hästi läheks"
+author: Juhani Püttsepp
+isbn13: ""
+year_published: nan
 date_started: ""
-date_finished: "2026/01/01"
-
-year_finished: 2026
-month_finished: "2026-01"
-
+date_finished: 2024/11/01
+year_finished: 2024
+month_finished: 2024-11
 rating: 5
 format: ""
-pages: 468.0
+pages: 124
 language: ""
-
 tags:
   - book
-
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: Books/covers/Ökoloog Olevi Kull Et headel inimestel hästi läheks.jpg
 ---
 
 ```dataviewjs

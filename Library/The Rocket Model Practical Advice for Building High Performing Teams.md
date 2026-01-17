@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The Rocket Model: Practical Advice for Building High Performing Teams"
+author: "Gordon J. Curphy"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780984096992"
+year_published: 2012.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2023/10/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2023
+month_finished: "2023-10"
 
-rating: 5
+rating: 4
 format: ""
-pages: 468.0
+pages: 198.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The Rocket Model Practical Advice for Building High Performing Teams.jpg"
 ---
 
 ```dataviewjs

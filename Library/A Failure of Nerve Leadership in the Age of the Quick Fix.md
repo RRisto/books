@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "A Failure of Nerve: Leadership in the Age of the Quick Fix"
+author: "Edwin H. Friedman"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781596270428"
+year_published: 2007.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2024/09/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2024
+month_finished: "2024-09"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 260.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/A Failure of Nerve Leadership in the Age of the Quick Fix.jpg"
 ---
 
 ```dataviewjs

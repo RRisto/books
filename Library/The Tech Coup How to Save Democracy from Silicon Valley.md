@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "The Tech Coup: How to Save Democracy from Silicon Valley"
+author: "Marietje Schaake"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9780691241173"
+year_published: 2024.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2025/03/01"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2025
+month_finished: "2025-03"
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 336.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/The Tech Coup How to Save Democracy from Silicon Valley.jpg"
 ---
 
 ```dataviewjs

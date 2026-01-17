@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Doing Data Science: Straight Talk from the Frontline"
+author: "Cathy O'Neil"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9781449358655"
+year_published: 2013.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "2016/06/19"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 2016
+month_finished: "2016-06"
 
-rating: 5
+rating: 4
 format: ""
-pages: 468.0
+pages: 405.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Doing Data Science Straight Talk from the Frontline.jpg"
 ---
 
 ```dataviewjs

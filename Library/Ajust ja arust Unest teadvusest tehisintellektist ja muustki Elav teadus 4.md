@@ -1,26 +1,26 @@
 ---
 type: book
-title: "Vestlused Lotmaniga"
-author: "Marek Tamm"
+title: "Ajust ja arust. Unest, teadvusest, tehisintellektist ja muustki (Elav teadus, #4)"
+author: "Jaan Aru"
 
-isbn13: "9789985589205"
-year_published: 2022.0
+isbn13: "9789949527977"
+year_published: 2017.0
 
 date_started: ""
-date_finished: "2026/01/01"
+date_finished: "nan"
 
-year_finished: 2026
-month_finished: "2026-01"
+year_finished: 0
+month_finished: ""
 
 rating: 5
 format: ""
-pages: 468.0
+pages: 159.0
 language: ""
 
 tags:
   - book
 
-cover: "Books/covers/Vestlused Lotmaniga.jpg"
+cover: "Books/covers/Ajust ja arust Unest teadvusest tehisintellektist ja muustki Elav teadus 4.jpg"
 ---
 
 ```dataviewjs
