@@ -1,4 +1,3 @@
-## Per year
 
 ```dataviewjs
 const pages = dv.pages('"Books/Library"')
