@@ -15,6 +15,7 @@ __pycache__/
 
 # Virtual environments
 venv/
+.venv/
 env/
 ENV/
 
@@ -22,3 +23,6 @@ ENV/
 # *.csv
 # *.xlsx
 # *.json
+
+.idea/
+*/.idea/

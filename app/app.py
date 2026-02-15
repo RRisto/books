@@ -2,15 +2,18 @@ import os
 from pathlib import Path
 from datetime import datetime
 from starlette.staticfiles import StaticFiles
+from starlette.responses import RedirectResponse
 from fasthtml.common import *
-from utils import generate_books_by_year_md
+from utils import generate_books_by_year_md, generate_statistics, generate_book_markdown
 
 COVERS_FOLDER = 'covers'
 LIBRARY_FOLDER = 'Library'
 
-app, rt = fast_app()
+# app, rt = fast_app()
+app, rt = fast_app(pico=True)
 
 app.mount("/covers", StaticFiles(directory="covers"), name="covers")
+app.mount("/views", StaticFiles(directory="Views"), name="views")
 
 
 @rt("/")
@@ -20,10 +23,11 @@ def get():
                       H2("What would you like to do?"),
                       A("Add New Book", href="/add"),
                       Br(),
-                      A("View/Edit Books", href="/books")
+                      A("View/Edit Books", href="/books"),
+                      Br(),
+                      A("View stats", href="/stats")
                   )
                   )
-
 
 @rt("/add")
 def get():
@@ -69,20 +73,19 @@ def get():
 
     return Titled("Add Book",
                   Style("""
-        form div { 
-            display: flex; 
-            margin-bottom: 10px; 
-        }
-        form label { 
-            width: 150px; 
-            text-align: right; 
-            margin-right: 10px; 
-        }
-    """),
+    form div { 
+        display: flex; 
+        margin-bottom: 10px; 
+    }
+    form label { 
+        width: 150px; 
+        text-align: right; 
+        margin-right: 10px; 
+    }
+"""),
                   form)
 
-
-@rt("/")
+@rt("/add")
 def post(title: str, author: str, isbn13: str, year_published: int,
          date_finished: str, rating: int, pages: int, cover: UploadFile,
          format: str, language: str, description: str, key_ideas: str,
@@ -117,67 +120,12 @@ def post(title: str, author: str, isbn13: str, year_published: int,
     # Generate frontmatter
     cover_relative_path = f"{COVERS_FOLDER}/{cover_filename}"
 
-    frontmatter = f"""---
-type: book
-title: "{title}"
-author: "{author}"
-
-isbn13: "{isbn13}"
-year_published: {year_published}
-
-date_started: ""
-date_finished: "{date_finished}"
-
-year_finished: {year_finished}
-month_finished: "{month_finished}"
-
-rating: {rating}
-format: "{format}"
-pages: {pages}
-language: "{language}"
-
-tags:
-  - book
-
-cover: "{cover_relative_path}"
----
-"""
-
-    body = f"""
-    
-```dataviewjs
-if (dv.current().cover) {{ dv.paragraph("![[" + dv.current().cover + "]]"); }}
-```
-
-
-# `= this.title`
-**Author:** `= this.author`
-
----
-
-## 📝 My description
-{description}
-
----
-
-## 💡 Key ideas / quotes
-{key_ideas}
-
----
-
-## 🔁 Would I reread?
-- {reread_yes} Yes
-- {reread_no} No
-- {reread_parts} Parts only
-
----
-
-## ⭐ Final verdict
-{final_verdict}
-    """
-
-    md_content = frontmatter + body
-
+    md_content = generate_book_markdown(
+        title, author, isbn13, year_published, date_finished,
+        year_finished, month_finished, rating, format,
+        pages, language, cover_relative_path, description,
+        key_ideas, reread, final_verdict
+    )
     md_path = Path(LIBRARY_FOLDER) / f"{clean_title}.md"
     md_path.parent.mkdir(parents=True, exist_ok=True)
     md_path.write_text(md_content, encoding='utf-8')
@@ -185,7 +133,6 @@ if (dv.current().cover) {{ dv.paragraph("![[" + dv.current().cover + "]]"); }}
     generate_books_by_year_md()
 
     return f"Book '{title}' saved! Stats updated!"
-
 
 @rt("/books")
 def get(page: int = 1, search: str = "", sort: str = "title", order: str = "asc"):
@@ -295,7 +242,6 @@ def get(page: int = 1, search: str = "", sort: str = "title", order: str = "asc"
                   book_list,
                   Div(prev_link, " ", next_link))
 
-
 @rt("/edit/{filename}")
 def get(filename: str):
     # Load the markdown file
@@ -389,9 +335,9 @@ def get(filename: str):
             name="format"
         )),
         Div(Label("Language:"), Input(name="language", value=language)),
-        Div(Label("Description:"), Textarea(name="description", rows="3", value=description)),
-        Div(Label("Key ideas/quotes:"), Textarea(name="key_ideas", rows="3", value=key_ideas)),
-        Div(Label("Final verdict:"), Textarea(name="final_verdict", rows="2", value=final_verdict)),
+        Div(Label("Description:"), Textarea(description, name="description", rows="3")),
+        Div(Label("Key ideas/quotes:"), Textarea(key_ideas, name="key_ideas", rows="3")),
+        Div(Label("Final verdict:"), Textarea(final_verdict, name="final_verdict", rows="2")),
         Div(Label("Would I reread?"), Div(
             Input(type="radio", name="reread", value="yes", id="reread_yes", checked=(reread == "yes")),
             Label("Yes", for_="reread_yes"),
@@ -408,10 +354,96 @@ def get(filename: str):
 
     return Titled("Edit Book",
                   Style("""
-        form div { display: flex; margin-bottom: 10px; }
-        form label { width: 150px; text-align: right; margin-right: 10px; }
-    """),
+    form div { display: flex; margin-bottom: 10px; }
+    form label { width: 150px; text-align: right; margin-right: 10px; }
+"""),
                   form)
 
+@rt("/edit/{filename}")
+def post(filename: str, title: str, author: str, isbn13: str, year_published: int,
+         date_finished: str, rating: int, pages: int, cover: UploadFile,
+         format: str, language: str, description: str, key_ideas: str,
+         final_verdict: str, reread: str):
+    # Parse the date
+    dt = datetime.strptime(date_finished, '%Y-%m-%d')
+    year_finished = dt.year
+    month_finished = dt.strftime('%Y-%m')
 
-serve()
+    # Create clean filename
+    clean_title = "".join(c for c in title if c.isalnum() or c in (' ', '-', '_')).strip()
+
+    # Handle cover - keep existing or use new one
+    if cover and cover.filename:
+        file_ext = os.path.splitext(cover.filename)[1]
+        cover_filename = f"{clean_title}{file_ext}"
+        cover_path = Path(COVERS_FOLDER) / cover_filename
+        cover_path.write_bytes(cover.file.read())
+        cover_relative_path = f"{COVERS_FOLDER}/{cover_filename}"
+    else:
+        # Keep existing cover - read from old file
+        old_md_path = Path(LIBRARY_FOLDER) / f"{filename}.md"
+        old_content = old_md_path.read_text(encoding='utf-8')
+        cover_relative_path = ""
+        for line in old_content.split('\n'):
+            if line.startswith('cover:'):
+                cover_relative_path = line.split('cover:')[1].strip().strip('"')
+                break
+
+    # Format the reread checkboxes
+    reread_yes = "[x]" if reread == "yes" else "[ ]"
+    reread_no = "[x]" if reread == "no" else "[ ]"
+    reread_parts = "[x]" if reread == "parts" else "[ ]"
+
+
+    md_content = generate_book_markdown(
+        title, author, isbn13, year_published, date_finished,
+        year_finished, month_finished, rating, format,
+        pages, language, cover_relative_path, description,
+        key_ideas, reread, final_verdict
+    )
+    # Save to file (use clean_title for new filename in case title changed)
+    md_path = Path(LIBRARY_FOLDER) / f"{clean_title}.md"
+    md_path.write_text(md_content, encoding='utf-8')
+
+    # Delete old file if title changed
+    old_md_path = Path(LIBRARY_FOLDER) / f"{filename}.md"
+    if old_md_path != md_path and old_md_path.exists():
+        old_md_path.unlink()
+
+    # Update stats
+    generate_books_by_year_md()
+
+    return Titled("Success",
+                  P(f"Book '{title}' updated!"),
+                  A("← Back to Books", href="/books"))
+
+
+@rt("/update-stats")
+def get():
+    generate_statistics()
+    return RedirectResponse("/stats?message=Stats+updated!")
+
+
+@rt("/stats")
+def get(message: str = ""):
+    popup = ""
+    if message:
+        popup = Div(
+            Span("×", onclick="this.parentElement.style.display='none'",
+                 style="position:absolute;top:5px;right:10px;cursor:pointer;font-size:20px;"),
+            message,
+            id="popup",
+            style="position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);max-width:300px;text-align:center;background:#333;color:white;padding:20px;border-radius:10px;z-index:1000;position:relative;"
+        )
+
+    return Titled("Reading Statistics",
+                  popup,
+                  Script(
+                      "setTimeout(() => document.getElementById('popup')?.style.display='none', 5000)") if message else "",
+                  A("← Back to Home", href="/"),
+                  Br(),
+                  A("Update stats", href="/update-stats"),
+                  H2("Books and Pages Per Month"),
+                  Img(src="/views/books_pages_per_month.png"))
+
+    serve()

@@ -1,4 +1,78 @@
 from pathlib import Path
+from collections import defaultdict
+import matplotlib.pyplot as plt
+import matplotx
+
+plt.style.use(matplotx.styles.dufte)
+
+
+def generate_book_markdown(title, author, isbn13, year_published, date_finished,
+                           year_finished, month_finished, rating, format_val,
+                           pages, language, cover_relative_path, description,
+                           key_ideas, reread, final_verdict):
+    reread_yes = "[x]" if reread == "yes" else "[ ]"
+    reread_no = "[x]" if reread == "no" else "[ ]"
+    reread_parts = "[x]" if reread == "parts" else "[ ]"
+
+    frontmatter = f"""---
+type: book
+title: "{title}"
+author: "{author}"
+
+isbn13: "{isbn13}"
+year_published: {year_published}
+
+date_started: ""
+date_finished: "{date_finished}"
+
+year_finished: {year_finished}
+month_finished: "{month_finished}"
+
+rating: {rating}
+format: "{format_val}"
+pages: {pages}
+language: "{language}"
+
+tags:
+  - book
+
+cover: "{cover_relative_path}"
+---
+"""
+
+    body = f"""
+
+```dataviewjs
+if (dv.current().cover) {{ dv.paragraph("![[" + dv.current().cover + "]]"); }}
+```
+
+# `= this.title`
+**Author:** `= this.author`
+
+---
+
+## 📝 My description
+{description}
+
+---
+
+## 💡 Key ideas / quotes
+{key_ideas}
+
+---
+
+## 🔁 Would I reread?
+- {reread_yes} Yes
+- {reread_no} No
+- {reread_parts} Parts only
+
+---
+
+## ⭐ Final verdict
+{final_verdict}
+"""
+
+    return frontmatter + body
 
 
 def generate_books_by_year_md():
@@ -94,3 +168,80 @@ def generate_books_by_year_md():
         output_file = views_dir / f"Books_{year}.md"
         output_file.write_text(md_content, encoding='utf-8')
         print(f"✓ Created {output_file}")
+
+
+def generate_statistics():
+    # Collect stats
+    books_per_month = defaultdict(int)
+    pages_per_month = defaultdict(int)
+
+    for md_file in Path('Library').glob('*.md'):
+        content = md_file.read_text(encoding='utf-8')
+
+        if content.startswith('---'):
+            frontmatter_end = content.find('---', 3)
+            frontmatter = content[3:frontmatter_end]
+
+            month_finished = ""
+            pages = 0
+
+            for line in frontmatter.split('\n'):
+                if line.startswith('month_finished:'):
+                    month_finished = line.split('month_finished:')[1].strip().strip('"')
+                elif line.startswith('pages:'):
+                    try:
+                        pages = int(float(line.split('pages:')[1].strip()))
+                    except:
+                        pages = 0
+
+            if month_finished:
+                books_per_month[month_finished] += 1
+                pages_per_month[month_finished] += pages
+
+    # Sort by month
+    months = sorted(books_per_month.keys())
+    book_counts = [books_per_month[m] for m in months]
+    page_counts = [pages_per_month[m] for m in months]
+
+    # Create Views folder
+    views_dir = Path('Views')
+    views_dir.mkdir(exist_ok=True)
+
+    # Dual axis chart: Books and Pages per month
+    fig, ax1 = plt.subplots(figsize=(12, 5))
+
+    # Books on left axis
+    ax1.plot(months, book_counts, marker='o', color='blue', label='Books')
+    ax1.set_xlabel('Month')
+    ax1.set_ylabel('Books', color='blue')
+    ax1.tick_params(axis='y', labelcolor='blue')
+
+    # Pages on right axis
+    ax2 = ax1.twinx()
+    ax2.plot(months, page_counts, marker='s', color='green', label='Pages')
+    ax2.set_ylabel('Pages', color='green')
+    ax2.tick_params(axis='y', labelcolor='green')
+
+    plt.title('Books and Pages Read Per Month')
+    ax1.set_xticks(range(0, len(months), 3))
+    ax1.set_xticklabels([months[i] for i in range(0, len(months), 3)], rotation=90)
+    plt.tight_layout()
+    # Add vertical lines where year changes
+    for i in range(1, len(months)):
+        if months[i][:4] != months[i - 1][:4]:  # compare year part (YYYY)
+            ax1.axvline(x=i, color='gray', linestyle='--', alpha=0.5)
+    plt.savefig(views_dir / 'books_pages_per_month.png')
+    plt.close()
+
+
+
+    # Create statistics.md
+    md_content = """# Reading Statistics
+
+## Books and Pages Per Month
+![[Views/books_pages_per_month.png]]
+
+"""
+
+    (views_dir / 'statistics.md').write_text(md_content, encoding='utf-8')
+    print("✓ Statistics updated!")
