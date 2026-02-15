@@ -9,8 +9,8 @@ year_published: 2020.0
 date_started: ""
 date_finished: "nan"
 
-year_finished: 0
-month_finished: ""
+year_finished: 2021
+month_finished: "2021-08"
 
 rating: 5
 format: ""

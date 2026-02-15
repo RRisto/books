@@ -175,6 +175,9 @@ def generate_statistics():
     books_per_month = defaultdict(int)
     pages_per_month = defaultdict(int)
 
+    books_per_year = defaultdict(int)
+    pages_per_year = defaultdict(int)
+
     for md_file in Path('Library').glob('*.md'):
         content = md_file.read_text(encoding='utf-8')
 
@@ -183,11 +186,14 @@ def generate_statistics():
             frontmatter = content[3:frontmatter_end]
 
             month_finished = ""
+            year_finished = ""
             pages = 0
 
             for line in frontmatter.split('\n'):
                 if line.startswith('month_finished:'):
                     month_finished = line.split('month_finished:')[1].strip().strip('"')
+                if line.startswith('year_finished:'):
+                    year_finished = int(line.split('year_finished:')[1].strip())
                 elif line.startswith('pages:'):
                     try:
                         pages = int(float(line.split('pages:')[1].strip()))
@@ -198,10 +204,20 @@ def generate_statistics():
                 books_per_month[month_finished] += 1
                 pages_per_month[month_finished] += pages
 
+            if year_finished:
+                books_per_year[year_finished] += 1
+                pages_per_year[year_finished] += pages
+
     # Sort by month
     months = sorted(books_per_month.keys())
     book_counts = [books_per_month[m] for m in months]
     page_counts = [pages_per_month[m] for m in months]
+
+    # Sort by year
+    years = sorted(books_per_year.keys())
+    book_counts_year = [books_per_year[y] for y in years]
+    page_counts_year = [pages_per_year[y] for y in years]
+    years = [str(y) for y in sorted(books_per_year.keys())]
 
     # Create Views folder
     views_dir = Path('Views')
@@ -233,13 +249,36 @@ def generate_statistics():
     plt.savefig(views_dir / 'books_pages_per_month.png')
     plt.close()
 
+    # Dual axis chart: Books and Pages per year
+    fig, ax1 = plt.subplots(figsize=(12, 5))
 
+    # Books on left axis
+    ax1.plot(years, book_counts_year, marker='o', color='blue', label='Books')
+    ax1.set_xlabel('Year')
+    ax1.set_ylabel('Books', color='blue')
+    ax1.tick_params(axis='y', labelcolor='blue')
+
+    # Pages on right axis
+    ax2 = ax1.twinx()
+    ax2.plot(years, page_counts_year, marker='s', color='green', label='Pages')
+    ax2.set_ylabel('Pages', color='green')
+    ax2.tick_params(axis='y', labelcolor='green')
+
+    plt.title('Books and Pages Read Per Year')
+    ax1.set_xticks(range(0, len(years), 1))
+    ax1.set_xticklabels([years[i] for i in range(0, len(years), 1)], rotation=90)
+    plt.tight_layout()
+    plt.savefig(views_dir / 'books_pages_per_year.png')
+    plt.close()
 
     # Create statistics.md
     md_content = """# Reading Statistics
 
 ## Books and Pages Per Month
 ![[Views/books_pages_per_month.png]]
+
+## Books and Pages Per Year
+![[Views/books_pages_per_year.png]]
 
 """
 

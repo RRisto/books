@@ -21,11 +21,9 @@ def get():
     return Titled("Book Manager",
                   Div(
                       H2("What would you like to do?"),
-                      A("Add New Book", href="/add"),
-                      Br(),
-                      A("View/Edit Books", href="/books"),
-                      Br(),
-                      A("View stats", href="/stats")
+                      Div(A("Add New Book", href="/add", role="button"), style="margin-bottom:10px;"),
+                      Div(A("View/Edit Books", href="/books", role="button"), style="margin-bottom:10px;"),
+                      Div(A("View stats", href="/stats", role="button"), style="margin-bottom:10px;"),
                   )
                   )
 
@@ -440,10 +438,12 @@ def get(message: str = ""):
                   popup,
                   Script(
                       "setTimeout(() => document.getElementById('popup')?.style.display='none', 5000)") if message else "",
-                  A("← Back to Home", href="/"),
-                  Br(),
-                  A("Update stats", href="/update-stats"),
+                  Div(A("← Back to Home", href="/", role="button"), style="margin-bottom:10px;"),
+                  Div(A("Update stats", href="/update-stats", role="button"), style="margin-bottom:10px;"),
                   H2("Books and Pages Per Month"),
-                  Img(src="/views/books_pages_per_month.png"))
+                  Img(src="/views/books_pages_per_month.png"),
+                  H2("Books and Pages Per Year"),
+                  Img(src="/views/books_pages_per_year.png"))
 
-    serve()
+
+serve()
