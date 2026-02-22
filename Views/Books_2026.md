@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 9 books**
+**Total: 10 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -56,6 +56,23 @@ What do I want to remember about this book in a year or two?
 **Pages:** 181  
 
 What do I want to remember about this book in a year or two?
+
+---
+
+### Against the Machine: On the Unmaking of Humanity
+**Author:** Paul Kingsnorth  
+**Published:** 2025  
+**Finished:** 2026-02  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 368  
+
+![[covers/Against the Machine On the Unmaking of Humanity.jpg|150]]  
+
+How a force that’s hard to name, but which we all feel, is reshaping what it means to be human
+
+In Against the Machine, “furiously gifted” (The Washington Post) novelist, poet, and essayist Paul Kingsnorth presents a wholly original—and terrifying—account of the technological-cultural matrix enveloping all of us. With masterful insight into the spiritual and economic roots of techno-capitalism, Kingsnorth reveals how the Machine, in the name of progress, has choked Western civilization, is destroying the Earth itself, and is reshaping us in its image. From the First Industrial Revolution to the rise of artificial intelligence, he shows how the hollowing out of humanity has been a long game—and how your very soul is at stake.
+
+It takes effort to remain truly human in the age of the Machine. Writing in the tradition of Wendell Berry, Jacques Ellul and Simone Weil, Kingsnorth reminds us what humanity requires: a healthy suspicion of entrenched power; connection to land, nature and heritage; and a deep attention to matters of the spirit. Prophetic, poetic, and erudite, Against the Machine is the spiritual manual for dissidents in the technological age.
 
 ---
 

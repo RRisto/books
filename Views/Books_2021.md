@@ -1,6 +1,6 @@
 # Books Read in 2021
 
-**Total: 5 books**
+**Total: 6 books**
 
 ### Never Split the Difference: Negotiating As If Your Life Depended On It
 **Author:** Chris Voss  
@@ -8,6 +8,17 @@
 **Finished:** 2021-03  
 **Rating:** ⭐⭐⭐⭐⭐  
 **Pages:** 274  
+
+What do I want to remember about this book in a year or two?
+
+---
+
+### A Curious History of Sex
+**Author:** Kate  Lister  
+**Published:** 2020  
+**Finished:** 2021-08  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 353  
 
 What do I want to remember about this book in a year or two?
 
