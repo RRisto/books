@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 12 books**
+**Total: 13 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -171,6 +171,27 @@ Määratlused üksi ei tee palju targemaks; asja olemuse mõistmiseks käsitleta
 
 
 Võib juhtuda, et pärast selle raamatu läbi lugemist mõistab lugeja nii ennast kui ka teisi inimesi paremini. Sokrates leidis, et on naeruväärne uurida muid asju enne, kui pole aru saadud iseendast. See raamat on kutse enese paremale mõistmisele.
+
+---
+
+### Russia: Revolution and Civil War 1917-1921
+**Author:** Antony Beevor  
+**Published:** 2022  
+**Finished:** 2026-03  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 608  
+
+![[covers/Russia Revolution and Civil War 1917-1921.jpg|150]]  
+
+An epic new account of the conflict that reshaped Eastern Europe and set the stage for the rest of the twentieth century.
+
+
+
+Between 1917 and 1921 a devastating struggle took place in Russia following the collapse of the Tsarist empire. The doomed White alliance of moderate socialists and reactionary monarchists stood little chance against Trotsky’s Red Army and the single-minded Communist dictatorship under Lenin. In the savage civil war that followed, terror begat terror, which in turn led to ever greater cruelty with man’s inhumanity to man, woman and child. The struggle became a world war by proxy as Churchill deployed weaponry and troops from the British empire, while contingents from the United States, France, Italy, Japan, Poland, and Czechoslovakia played rival parts.
+
+
+
+Using the most up to date scholarship and archival research, Antony Beevor assembles the complete picture in a gripping narrative that conveys the conflict through the eyes of everyone from the worker on the streets of Petrograd to the cavalry officer on the battlefield and the doctor in an improvised hospital.
 
 ---
 
