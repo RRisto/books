@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 13 books**
+**Total: 15 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -192,6 +192,40 @@ Between 1917 and 1921 a devastating struggle took place in Russia following the 
 
 
 Using the most up to date scholarship and archival research, Antony Beevor assembles the complete picture in a gripping narrative that conveys the conflict through the eyes of everyone from the worker on the streets of Petrograd to the cavalry officer on the battlefield and the doctor in an improvised hospital.
+
+---
+
+### Valmisolek vastupanuks. I osa
+**Author:** Klemens-Augustinus Kasemaa  
+**Published:** 2025  
+**Finished:** 2026-03  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 173  
+
+![[covers/Valmisolek vastupanuks I osa.jpg|150]]  
+
+Kolmeosalise sarja ülesanne on lugeja ettevalmistamine võimalikuks sõjaliseks konfliktiks lähiaastatel – anda juhised milliseid ettevalmistusi teha, kuidas käituda hübriidsõja või lahingute tingimustes, kuidas osutada nii relvastatud kui relvastamata vastupanu. Sarja lugemine ja näpunäidete järgmine aitab ehitada meie heidutusvõimet. Peamine eesmärk on konflikti vältimine ja kahtlemata vastane eelnevalt hindab, kuivõrd valmistunud me ühiskonnana oleme. Kui riigil ja jõuametitel on omad plaanid, siis rohujuuretasandil ettevalmistuste tegemine ning sellealane harimine on jäänud vaeslapse ossa. Just seda lünka antud sari likvideerib. Esimene osa on keskendunud ettevalmistustele enne konflikti puhkemist – riskide hindamisele ja plaanide koostamisele. Oma oskuste, võimaluste ja varude kaardistamine – mida on vaja juurde õppida ja hankida, mis saab perest ja lemmikutest. Väga praktilised nõuanded kuluvad ära nii pisema looduskatastroofi korral kui ka internetipettuste vältimisel. Läbimõeldud ja plaanijärgne elukorraldus aitab igapäevaseid kulusidki kokku hoida, kuna emotsiooniostud jäävad tegemata. Raamatu ülesehitus on ajaskaalal tänasest päevast võimaliku konflikti algushetkeni ja läheb vastavalt detailsemaks. A5 kõvade kaantega formaat on mõeldud kaasas kandmiseks ning oma märkmete, plaanide ja loendite koostamiseks. Selleks on ette nähtud tühjad tabelid ja täidetavad mallid – kirjuta sinna julgesti, kuna märkmetest koos raamatu sisuga moodustub lugeja isiklik plaan. Meie igapäevane elukorraldus on hapram kui arvame – piisab, kui suurem kaubalaev laseb õiges kohas ankru vette ja juba on meie internetiühendus välismaailmaga küsimärgi all ning elektri hind mitu korda kallim. Paljusid neist riskidest on võimalik ennetavalt vältida ja on võimalik, et naaberriik jätab sigadused tegemata kui neist pole tema jaoks loodetud kasu. Koju varutud makarone ei pea kohe maasse kaevama aga vajadusel peab olema vastav koht eelnevalt välja valitud. Meie maapõu on täis sinna peidetud esemeid – peale II maailmasõda, kui algas kolhooside moodustamine, kaevati sinna isegi hobutööriistu. Meie esivanemad ei olnud rumalamad, nad tegid seda vajadusest lähtuvalt ja paraku on käes aeg, mil peame turvalisusele ja kestmajäämisele uuesti mõtlema. Siiski on läinud aeg edasi ja metsavennaromantika tänapäeva ühiskonna ning tehnika arengu juures ei ole enam reaalne – tuleb kombineerida vanu tarkusi uute võimalustega.
+
+
+
+Raamat lõpeb hulga praktiliste lisadega, mida saad kasutada nii väiksemate kui suuremate kriiside puhul.
+
+---
+
+### Vanaemale suremine ei meeldinud
+**Author:** Pavel Beljanski  
+**Published:** 2021  
+**Finished:** 2026-03  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 208  
+
+![[covers/Vanaemale suremine ei meeldinud.jpg|150]]  
+
+„Vanaemale suremine ei meeldinud“ on julm, kaunis, vahedalt teravmeelne ja ehedalt kurb perekonnasaaga, mis hõlmab kolme põlvkonna elu. Nad kõik püüavad oma kodus väsimatult isiklikku õnne leida, kuid tõelist armastust pole nad iialgi kogenud. Iga peatükk esindab erinevat lugu, kübekest elu, osa iroonilisest, nukrast ja vägevast loost. Ühiselt moodustavad need imelise lõuendi, millele on maalitud Ida-Ukraina väikese kaevandusküla elanike lugu.
+
+
+
+Pavel Beljanski sündis 1977. aastal Ukrainas, Luhanski oblasti Perevalski rajooni külas Šahta nr 9 sõjaväelaste perekonnas. Ta on õppinud keemiatehnoloogiat, teinud müügitööd ja töötanud vabakutselise korrespondendina mitme ajalehe juures. Beljanski on varjunime Pasteet all andnud välja arvukalt raamatuid ja võitnud mitmeid konkursse. Ta on kirjutanud enam kui sada lühijuttu ja kaks romaani. Oma töös on ta kokku puutunud paljude inimestega, nende saatuste, lugude ja meenutustega. Napid ülevaated elust ja surmast, kõikevõitvast armastusest ja tühistest huvidest, solvumistest ja andeksandmistest ei jäta kedagi ükskõikseks. Beljanski tuntumate teoste hulka kuuluvad „Стоматолог решает жениться” („Hambaarst otsustab abielluda”), „Великий побег” („Suur põgenemine”), lühijuttude kogumik „Я работаю на кладбище” („Ma töötan kalmistul”). Pavel Beljanski kaitseb hetkel Ukraina vägede koosseisus oma kodumaad Venemaa agressiooni eest.
 
 ---
 
