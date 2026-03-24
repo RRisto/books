@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 15 books**
+**Total: 16 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -192,6 +192,19 @@ Between 1917 and 1921 a devastating struggle took place in Russia following the 
 
 
 Using the most up to date scholarship and archival research, Antony Beevor assembles the complete picture in a gripping narrative that conveys the conflict through the eyes of everyone from the worker on the streets of Petrograd to the cavalry officer on the battlefield and the doctor in an improvised hospital.
+
+---
+
+### The Brain: The Story of You
+**Author:** David Eagleman  
+**Published:** 2015  
+**Finished:** 2026-03  
+**Rating:** ⭐⭐⭐⭐  
+**Pages:** 224  
+
+![[covers/The Brain The Story of You.jpg|150]]  
+
+Locked in the silence and darkness of your skull, your brain fashions the rich narratives of your reality and your identity. Join renowned neuroscientist David Eagleman for a journey into the questions at the mysterious heart of our existence. What is reality? Who are “you”? How do you make decisions? Why does your brain need other people? How is technology poised to change what it means to be human?  In the course of his investigations, Eagleman guides us through the world of extreme sports, criminal justice, facial expressions, genocide, brain surgery, gut feelings, robotics, and the search for immortality.  Strap in for a whistle-stop tour into the inner cosmos. In the infinitely dense tangle of billions of brain cells and their trillions of connections, something emerges that you might not have expected to see in there: you.
 
 ---
 
