@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 17 books**
+**Total: 18 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -256,6 +256,23 @@ Raamat lõpeb hulga praktiliste lisadega, mida saad kasutada nii väiksemate kui
 
 
 Pavel Beljanski sündis 1977. aastal Ukrainas, Luhanski oblasti Perevalski rajooni külas Šahta nr 9 sõjaväelaste perekonnas. Ta on õppinud keemiatehnoloogiat, teinud müügitööd ja töötanud vabakutselise korrespondendina mitme ajalehe juures. Beljanski on varjunime Pasteet all andnud välja arvukalt raamatuid ja võitnud mitmeid konkursse. Ta on kirjutanud enam kui sada lühijuttu ja kaks romaani. Oma töös on ta kokku puutunud paljude inimestega, nende saatuste, lugude ja meenutustega. Napid ülevaated elust ja surmast, kõikevõitvast armastusest ja tühistest huvidest, solvumistest ja andeksandmistest ei jäta kedagi ükskõikseks. Beljanski tuntumate teoste hulka kuuluvad „Стоматолог решает жениться” („Hambaarst otsustab abielluda”), „Великий побег” („Suur põgenemine”), lühijuttude kogumik „Я работаю на кладбище” („Ma töötan kalmistul”). Pavel Beljanski kaitseb hetkel Ukraina vägede koosseisus oma kodumaad Venemaa agressiooni eest.
+
+---
+
+### Ärevuse nähtamatud ahelad: Kuidas saada kontrolli alla oma ebakindlus, panna pausile ärevus ja lõpuks ometi maha rahuneda
+**Author:** Kathleen Smith  
+**Published:** 2019  
+**Finished:** 2026-03  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 264  
+
+![[covers/Ärevuse nähtamatud ahelad Kuidas saada kontrolli alla oma ebakindlus panna pausile ärevus ja lõpuks ometi maha rahuneda.jpg|150]]  
+
+Ärevuse nähtamatud ahelad
+
+Kuidas saada kontrolli alla oma ebakindlus, panna pausile ärevus ja lõpuks ometi maha rahuneda
+
+Me elame äreval ajal ärevas maailmas. Ja see ärevus mõjutab meid viisil, millest me alati teadlikud ei ole. See on nähtamatu pinge, mis koguneb kõrgenenud igapäevastressi tagajärjel ja mida iga stressi- rikas sündmus aina kasvatab. Kõrgenenud ärevus käivitab meis automaatpiloodi ja me hakkame pingelistes olukordades reaktiivselt käituma. Me reageerime, selle asemel et kontroll enda kätte võtta ja maha rahuneda. Kui inimene suudab aga eristada oma mõtteid tunnetest, ei hakka kellegi teise ärevus talle nii kergesti külge. Oskus eristada enda mõtteid ja tundeid teiste inimeste omadest on maharahunemise ja hakkamasaamise jaoks olemuslikult tähtis. Sel viisil eristunud inime- sed suudavad samal ajal olla sõltumatud ja lähedastes suhetes – ja seda isegi pingelistel aegadel. Iga peatükk selles raamatus uurib üht kindlat elu valdkonda, kus ärevus võib probleeme tekitada, ja pakub vastuseid sellele, kuidas eristumist kasvatades oma ärevust vähendada. Me saame valida, kuidas oma ärevust juhtida, ja kui me seda teeme, siis me muudame oma saatust!
 
 ---
 
