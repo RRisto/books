@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 18 books**
+**Total: 19 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -273,6 +273,21 @@ Pavel Beljanski sündis 1977. aastal Ukrainas, Luhanski oblasti Perevalski rajoo
 Kuidas saada kontrolli alla oma ebakindlus, panna pausile ärevus ja lõpuks ometi maha rahuneda
 
 Me elame äreval ajal ärevas maailmas. Ja see ärevus mõjutab meid viisil, millest me alati teadlikud ei ole. See on nähtamatu pinge, mis koguneb kõrgenenud igapäevastressi tagajärjel ja mida iga stressi- rikas sündmus aina kasvatab. Kõrgenenud ärevus käivitab meis automaatpiloodi ja me hakkame pingelistes olukordades reaktiivselt käituma. Me reageerime, selle asemel et kontroll enda kätte võtta ja maha rahuneda. Kui inimene suudab aga eristada oma mõtteid tunnetest, ei hakka kellegi teise ärevus talle nii kergesti külge. Oskus eristada enda mõtteid ja tundeid teiste inimeste omadest on maharahunemise ja hakkamasaamise jaoks olemuslikult tähtis. Sel viisil eristunud inime- sed suudavad samal ajal olla sõltumatud ja lähedastes suhetes – ja seda isegi pingelistel aegadel. Iga peatükk selles raamatus uurib üht kindlat elu valdkonda, kus ärevus võib probleeme tekitada, ja pakub vastuseid sellele, kuidas eristumist kasvatades oma ärevust vähendada. Me saame valida, kuidas oma ärevust juhtida, ja kui me seda teeme, siis me muudame oma saatust!
+
+---
+
+### Minu Ise areng: inimlapsest Inimeseks
+**Author:** Aaro Toomela  
+**Published:** 2017  
+**Finished:** 2026-04  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 656  
+
+![[covers/Minu Ise areng inimlapsest Inimeseks.webp|150]]  
+
+Autor Aaro Toomela ütleb: "See on raamat inimlapse Minu Ise ehk psüühika arengust. Autorile omaselt osutub näiliselt lihtne lähemal uurimisel mitmekülgseks ja keeruliseks. Arengu mõistmiseks peab näiteks aru saama, mida pidada psüühikaks ja kas inimestel on see kuidagi eriline. Need ja hulk teisi psüühikasse puutuvaid küsimusi ning vastused ei mahtunud ühte raamatusse. Seetõttu on osa selle raamatu mõistmiseks vajalikku kirjas juba minu eelmises raamatus “Kultuur, kõne ja Minu Ise”. Käeolevas raamatus aga saame teada, mis on areng ja mida tähendab arengustaadium. Näeme, mismoodi lapse areng staadiumidesse järjestub. Ajustki on juttu. Teooria järel uurime enam kui tuhandet uuringutulemust ja võime raamatu lõpuks rahuneda – teooria sobib andmetega ja andmed sobivad teooriaga.
+
+Võimalikul lugejal tasub nüüd küsida - Ja mis siis? Siis on see, et raamatu läbilugemise järel olete enda kohta palju asju teada saanud. Sest see raamat on igast Inimesest, kes inimlapsest just selliseks on arenenud, nagu ta praegu on – see raamat on igast selle lugejast."
 
 ---
 
