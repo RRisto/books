@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 19 books**
+**Total: 20 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -273,6 +273,19 @@ Pavel Beljanski sündis 1977. aastal Ukrainas, Luhanski oblasti Perevalski rajoo
 Kuidas saada kontrolli alla oma ebakindlus, panna pausile ärevus ja lõpuks ometi maha rahuneda
 
 Me elame äreval ajal ärevas maailmas. Ja see ärevus mõjutab meid viisil, millest me alati teadlikud ei ole. See on nähtamatu pinge, mis koguneb kõrgenenud igapäevastressi tagajärjel ja mida iga stressi- rikas sündmus aina kasvatab. Kõrgenenud ärevus käivitab meis automaatpiloodi ja me hakkame pingelistes olukordades reaktiivselt käituma. Me reageerime, selle asemel et kontroll enda kätte võtta ja maha rahuneda. Kui inimene suudab aga eristada oma mõtteid tunnetest, ei hakka kellegi teise ärevus talle nii kergesti külge. Oskus eristada enda mõtteid ja tundeid teiste inimeste omadest on maharahunemise ja hakkamasaamise jaoks olemuslikult tähtis. Sel viisil eristunud inime- sed suudavad samal ajal olla sõltumatud ja lähedastes suhetes – ja seda isegi pingelistel aegadel. Iga peatükk selles raamatus uurib üht kindlat elu valdkonda, kus ärevus võib probleeme tekitada, ja pakub vastuseid sellele, kuidas eristumist kasvatades oma ärevust vähendada. Me saame valida, kuidas oma ärevust juhtida, ja kui me seda teeme, siis me muudame oma saatust!
+
+---
+
+### Lapse ja inimkonna tee kritseldustest kunstini II: Inimkonna tee kritseldustest kunstiks
+**Author:** Aaro Toomela  
+**Published:** 2022  
+**Finished:** 2026-04  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 732  
+
+![[covers/Lapse ja inimkonna tee kritseldustest kunstini II Inimkonna tee kritseldustest kunstiks.jpg|150]]  
+
+Teose „Lapse ja inimkonna tee kritseldustest kunstini“ teise köite „Inimkonna tee kritseldustest kunstiks“ põhiteemaks on küsimus, kuidas on kujutiseloome arenenud inimkonna mitme miljoni aastase ajaloo vältel. Lähemal uurimisel selgub mitu huvitavat asja. Kõigepealt see, et inimene on siiamaani tõepoolest teadaolevalt ainuke loom, kes suudab iseseisvalt äratuntavaid asjade ja sündmuste kujutisi luua. Kuna inimese psüühikat eristab muudest loomadest just kõneliselt vahendatud mõtlemise võime, leiab kinnitust väide, et kujutiseloome aluseks on kõnelise mõtlemise protsessid. Seejärel avaneb kujutiseloome areng inimkonna ajaloos. Selgub, et hoolimata mõningatest teisejärgulistest erinevustest on kultuuri ja lapse kujutiseloome arengustaadiumid oma psühholoogiliselt olemuselt identsed. Lisaks selgub, et needsamad arengustaadiumid ilmnevad nii tasapinnaliste piltide kui ka kolmemõõtmeliste kujude loomisel.
 
 ---
 
