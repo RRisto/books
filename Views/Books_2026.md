@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 20 books**
+**Total: 21 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -273,6 +273,23 @@ Pavel Beljanski sündis 1977. aastal Ukrainas, Luhanski oblasti Perevalski rajoo
 Kuidas saada kontrolli alla oma ebakindlus, panna pausile ärevus ja lõpuks ometi maha rahuneda
 
 Me elame äreval ajal ärevas maailmas. Ja see ärevus mõjutab meid viisil, millest me alati teadlikud ei ole. See on nähtamatu pinge, mis koguneb kõrgenenud igapäevastressi tagajärjel ja mida iga stressi- rikas sündmus aina kasvatab. Kõrgenenud ärevus käivitab meis automaatpiloodi ja me hakkame pingelistes olukordades reaktiivselt käituma. Me reageerime, selle asemel et kontroll enda kätte võtta ja maha rahuneda. Kui inimene suudab aga eristada oma mõtteid tunnetest, ei hakka kellegi teise ärevus talle nii kergesti külge. Oskus eristada enda mõtteid ja tundeid teiste inimeste omadest on maharahunemise ja hakkamasaamise jaoks olemuslikult tähtis. Sel viisil eristunud inime- sed suudavad samal ajal olla sõltumatud ja lähedastes suhetes – ja seda isegi pingelistel aegadel. Iga peatükk selles raamatus uurib üht kindlat elu valdkonda, kus ärevus võib probleeme tekitada, ja pakub vastuseid sellele, kuidas eristumist kasvatades oma ärevust vähendada. Me saame valida, kuidas oma ärevust juhtida, ja kui me seda teeme, siis me muudame oma saatust!
+
+---
+
+### Lapse ja inimkonna tee kritseldustest kunstini I: Kujutiseloome psühholoogilisest olemusest ja arengust lastel
+**Author:** Aaro Toomela  
+**Published:** 2022  
+**Finished:** 2026-04  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 274  
+
+![[covers/Lapse ja inimkonna tee kritseldustest kunstini I Kujutiseloome psühholoogilisest olemusest ja arengust lastel.jpg|150]]  
+
+Psüühikat on inimkond püüdnud mõista juba aastatuhandeid. Ometi on ka tänapäeval psühholoogias rohkelt vastamata küsimusi. Veelgi enam, võib kahtlustada, et paljusid olulisi küsimusi pole veel isegi küsitud. „Lapse ja inimkonna tee kritseldustest kunstini“ on mõeldud kõigile, kes soovivad inimese psüühikat ja selle olemust paremini mõista. Aaro Toomela kolmeköitelises teoses vastatakse kolmele põhjapanevale küsimusele. Esiteks, kas kujutiseloome on võimalik ainult kõnepõhise ehk semiootiliselt vahendatud mõtlemise alusel? Teiseks, kas lapse vaimse arengu staadiumid vastavad inimkultuuri arengu staadiumidele? Ning kolmandaks, mis on kunst? Raamat on kirjutatud laia lugejaskonda silmas pidades, kuid tegemata siiski järeleandmisi teaduslikkuses.
+
+
+
+Esimeses köites „Kujutiseloome psühholoogilisest olemusest ja arengust lastel“ selgitatakse, miks igasugune kujutiseloome on ilma kõneliselt vahendatud mõtlemiseta võimatu ja kuidas kõneliselt vahendatud mõtlemise arengustaadiumid peaksid kujutiseloome arengus väljenduma. Seejärel näidatakse laste kujutiseloome arengut uurides, et teooria vastab täpselt andmetele. Samuti selgub, et täiskasvanud, kel pole olnud võimalust koolis käia ja kes koos sellega on jäänud ilma kõrgemate kõnelise mõtte vormide arengu võimalustest, joonistavad põhimõtteliselt samamoodi nagu koolieelikutest lapsed.
 
 ---
 
