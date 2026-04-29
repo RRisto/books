@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 21 books**
+**Total: 22 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -303,6 +303,23 @@ Esimeses köites „Kujutiseloome psühholoogilisest olemusest ja arengust laste
 ![[covers/Lapse ja inimkonna tee kritseldustest kunstini II Inimkonna tee kritseldustest kunstiks.jpg|150]]  
 
 Teose „Lapse ja inimkonna tee kritseldustest kunstini“ teise köite „Inimkonna tee kritseldustest kunstiks“ põhiteemaks on küsimus, kuidas on kujutiseloome arenenud inimkonna mitme miljoni aastase ajaloo vältel. Lähemal uurimisel selgub mitu huvitavat asja. Kõigepealt see, et inimene on siiamaani tõepoolest teadaolevalt ainuke loom, kes suudab iseseisvalt äratuntavaid asjade ja sündmuste kujutisi luua. Kuna inimese psüühikat eristab muudest loomadest just kõneliselt vahendatud mõtlemise võime, leiab kinnitust väide, et kujutiseloome aluseks on kõnelise mõtlemise protsessid. Seejärel avaneb kujutiseloome areng inimkonna ajaloos. Selgub, et hoolimata mõningatest teisejärgulistest erinevustest on kultuuri ja lapse kujutiseloome arengustaadiumid oma psühholoogiliselt olemuselt identsed. Lisaks selgub, et needsamad arengustaadiumid ilmnevad nii tasapinnaliste piltide kui ka kolmemõõtmeliste kujude loomisel.
+
+---
+
+### Lapse ja inimkonna tee kritseldustest kunstini III. Mis on kunst?
+**Author:** Aaro Toomela  
+**Published:** 2022  
+**Finished:** 2026-04  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 240  
+
+![[covers/Lapse ja inimkonna tee kritseldustest kunstini III Mis on kunst.webp|150]]  
+
+Psüühikat on inimkond püüdnud mõista juba aastatuhandeid. Ometi on ka tänapäeval psühholoogias rohkelt vastamata küsimusi. Veelgi enam, võib kahtlustada, et paljusid olulisi küsimusi pole veel isegi küsitud. „Lapse ja inimkonna tee kritseldustest kunstini“ on mõeldud kõigile, kes soovivad inimese psüühikat ja selle olemust paremini mõista. Aaro Toomela kolmeköitelises teoses vastatakse kolmele põhjapanevale küsimusele. Esiteks, kas kujutiseloome on võimalik ainult kõnepõhise ehk semiootiliselt vahendatud mõtlemise alusel? Teiseks, kas lapse vaimse arengu staadiumid vastavad inimkultuuri arengu staadiumidele? Ning kolmandaks, mis on kunst? Raamat on kirjutatud laia lugejaskonda silmas pidades, kuid tegemata siiski järeleandmisi teaduslikkuses.
+
+
+
+Teose „Lapse ja inimkonna tee kritseldustest kunstini“ kolmandas köites „Mis on kunst?“ näitab autor, kuidas kunstilisus ei ole mingi asja või nähtuse omadus – kunstiteoseid kui asju iseeneses maailmas ei eksisteeri. Kunst tekib psüühikas ja seega on tegemist nähtusega, mis sünnib maailma vaadates, kuulates, katsudes või mõnel muul viisil kogedes. Nii pole kunstiteosteks peetavad asjad mitte iseenesest kunstiteosed, need on asjad, mis saavad kunstiteosteks, kui inimene neid kogedes kunstilise elamuse saab. Raamatust selgub ka, milline on kunstielamuse psüühiline olemus.
 
 ---
 
