@@ -129,6 +129,7 @@ def post(title: str, author: str, isbn13: str, year_published: int,
     md_path.write_text(md_content, encoding='utf-8')
     # update stats
     generate_books_by_year_md()
+    generate_statistics()
 
     return f"Book '{title}' saved! Stats updated!"
 
@@ -410,6 +411,7 @@ def post(filename: str, title: str, author: str, isbn13: str, year_published: in
 
     # Update stats
     generate_books_by_year_md()
+    generate_statistics()
 
     return Titled("Success",
                   P(f"Book '{title}' updated!"),
