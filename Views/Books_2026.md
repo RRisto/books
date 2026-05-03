@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 22 books**
+**Total: 23 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -335,6 +335,31 @@ Teose „Lapse ja inimkonna tee kritseldustest kunstini“ kolmandas köites „
 Autor Aaro Toomela ütleb: "See on raamat inimlapse Minu Ise ehk psüühika arengust. Autorile omaselt osutub näiliselt lihtne lähemal uurimisel mitmekülgseks ja keeruliseks. Arengu mõistmiseks peab näiteks aru saama, mida pidada psüühikaks ja kas inimestel on see kuidagi eriline. Need ja hulk teisi psüühikasse puutuvaid küsimusi ning vastused ei mahtunud ühte raamatusse. Seetõttu on osa selle raamatu mõistmiseks vajalikku kirjas juba minu eelmises raamatus “Kultuur, kõne ja Minu Ise”. Käeolevas raamatus aga saame teada, mis on areng ja mida tähendab arengustaadium. Näeme, mismoodi lapse areng staadiumidesse järjestub. Ajustki on juttu. Teooria järel uurime enam kui tuhandet uuringutulemust ja võime raamatu lõpuks rahuneda – teooria sobib andmetega ja andmed sobivad teooriaga.
 
 Võimalikul lugejal tasub nüüd küsida - Ja mis siis? Siis on see, et raamatu läbilugemise järel olete enda kohta palju asju teada saanud. Sest see raamat on igast Inimesest, kes inimlapsest just selliseks on arenenud, nagu ta praegu on – see raamat on igast selle lugejast."
+
+---
+
+### Planta Sapiens. Taimede olemuse jälil
+**Author:** Paco Calvo ,  Natalie Lawrence  
+**Published:** 2025  
+**Finished:** 2026-05  
+**Rating:** ⭐⭐⭐⭐  
+**Pages:** 359  
+
+![[covers/Planta Sapiens Taimede olemuse jälil.jpg|150]]  
+
+Paco Calvo raamat „Planta Sapiens“ on tipptasemel teadusuurimus taimede intelligentsusest ja aken nende hämmastavasse sisemaailma.
+
+
+
+Aastakümnetepikkune uurimistöö dokumenteerib taimede muljetavaldavaid võimeid: nad suhtlevad üksteisega, mõjutavad teisi liike ja liiguvad keerukatel viisidel. Kuigi taimedel ei ole aju, moodustavad nende sisemehhanismid süsteemi, mis ei erine palju inimese keha läbistavatest närvivõrkudest. Raamatus pakub Calvo täiesti uue vaatenurga taimemaailmale, näidates esimest korda, kuidas loomade tunnetuse uurimiseks väljatöötatud analüüsimeetodeid saab kasutada ka taimede intelligentsuse paremaks mõistmiseks. Taimed õpivad ja mäletavad, nende intelligentsus võimaldab neil paindlikult, tulevikku vaatavalt ja eesmärgipäraselt käituda. Nende individuaalsed eelistused on samuti erinevad – taimed on isiksused.
+
+
+
+Calvo juhib tähelepanu ka sellele, kuidas taimed inspireerivad tehnoloogilisi uurimusi robootikast tehisintellektini. Kui mõistame, et taimed on kliimakriisis meie liitlased, võivad nad aidata lahendada meie kõige pakilisemaid probleeme.
+
+
+
+Paco Calvo on Hispaania Murcia Ülikooli teadusfilosoofia professor ning taimede märgisüsteemide ja käitumise filosoofia juhtivteadlane. Ta on maailma esimese taimede neurobioloogia labori, Murcia Ülikooli juures tegutseva Minimal Intelligence Labi (MINT Lab) asutaja ja juhataja.
 
 ---
 
