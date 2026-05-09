@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 23 books**
+**Total: 24 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -335,6 +335,31 @@ Teose „Lapse ja inimkonna tee kritseldustest kunstini“ kolmandas köites „
 Autor Aaro Toomela ütleb: "See on raamat inimlapse Minu Ise ehk psüühika arengust. Autorile omaselt osutub näiliselt lihtne lähemal uurimisel mitmekülgseks ja keeruliseks. Arengu mõistmiseks peab näiteks aru saama, mida pidada psüühikaks ja kas inimestel on see kuidagi eriline. Need ja hulk teisi psüühikasse puutuvaid küsimusi ning vastused ei mahtunud ühte raamatusse. Seetõttu on osa selle raamatu mõistmiseks vajalikku kirjas juba minu eelmises raamatus “Kultuur, kõne ja Minu Ise”. Käeolevas raamatus aga saame teada, mis on areng ja mida tähendab arengustaadium. Näeme, mismoodi lapse areng staadiumidesse järjestub. Ajustki on juttu. Teooria järel uurime enam kui tuhandet uuringutulemust ja võime raamatu lõpuks rahuneda – teooria sobib andmetega ja andmed sobivad teooriaga.
 
 Võimalikul lugejal tasub nüüd küsida - Ja mis siis? Siis on see, et raamatu läbilugemise järel olete enda kohta palju asju teada saanud. Sest see raamat on igast Inimesest, kes inimlapsest just selliseks on arenenud, nagu ta praegu on – see raamat on igast selle lugejast."
+
+---
+
+### Living on Earth: Forests, Corals, Consciousness, and the Making of the World
+**Author:** Peter Godfrey-Smith  
+**Published:** 2024  
+**Finished:** 2026-05  
+**Rating:** ⭐⭐⭐⭐  
+**Pages:** 336  
+
+![[covers/Living on Earth Forests Corals Consciousness and the Making of the World.jpg|150]]  
+
+The bestselling author of Other Minds shows how we and our ancestors have reinvented our planet.
+
+
+
+If the history of the Earth were compressed down to a year, our species would arise in the last thirty minutes or so of the final hour. But life itself is not such a late It has existed on Earth for something like 3.7 billion years—most of our planet’s history and over a quarter of the age of the universe (as far as we can tell).
+
+
+
+What have these organisms—bacteria, animals, plants and the rest—done in all this time? In Living on Earth, the philosopher Peter Godfrey-Smith tells the long story of living action, and its impact. Where his acclaimed books Other Minds and Metazoa explored the riddle of how conscious minds came to exist on Earth, Living on Earth turns to what happens when we look at the mind from another side—as a cause, as a factor, in the making of the world in which we live.
+
+
+
+To that end, Godfrey-Smith takes us on a grand tour of communication, culture, and consciousness. He visits Rwandan gorillas and Australian bowerbirds, returns to coral reefs and octopus dens, considers the impact of language and writing, and weighs the responsibilities our unique powers bring with them, as they relate to factory farming, habitat preservation, climate change, and the use of animals in experiments. Ranging from the seas to the forests, and from animate matter’s first appearance to its future extinction, Godfrey-Smith offers a novel picture of the course of life on Earth and how we might meet the challenges of our time, the Anthropocene.
 
 ---
 
