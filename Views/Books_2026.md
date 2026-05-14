@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 24 books**
+**Total: 25 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -360,6 +360,31 @@ What have these organisms—bacteria, animals, plants and the rest—done in all
 
 
 To that end, Godfrey-Smith takes us on a grand tour of communication, culture, and consciousness. He visits Rwandan gorillas and Australian bowerbirds, returns to coral reefs and octopus dens, considers the impact of language and writing, and weighs the responsibilities our unique powers bring with them, as they relate to factory farming, habitat preservation, climate change, and the use of animals in experiments. Ranging from the seas to the forests, and from animate matter’s first appearance to its future extinction, Godfrey-Smith offers a novel picture of the course of life on Earth and how we might meet the challenges of our time, the Anthropocene.
+
+---
+
+### More and More and More
+**Author:** Jean-Baptiste Fressoz  
+**Published:** 2025  
+**Finished:** 2026-05  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 336  
+
+![[covers/More and More and More.jpg|150]]  
+
+The radical, paradigm-shifting international bestseller that destroys our delusions about energy consumption and will change the way we talk about climate change.
+
+
+
+We have long been taught that humanity’s relationship with energy is one of progress, with wood superseded by coal, coal by oil, oil by nuclear—until at some future point everything will be replaced by “green” energy. But the long-held belief in transition and sustainability is completely untrue, Jean-Baptiste Fressoz argues.
+
+
+
+More and More and More demolishes this disastrous fallacy, showing how our industrial age and beyond has in fact been powered by an ever-greater accumulation of each major energy source feeding off the others. Using a fascinating array of examples from past and present, from the whaling and candle-making industries of the nineteenth century to our post-nuclear age today, Fressoz describes how humanity has gorged on all forms of energy—with whole forests used to prop up coal mines, and fossil fuels remaining central to the creation of innumerable new products we rely on every day. While nations have signed climate agreements aimed at reducing fossil fuels, the sad truth is that the world today burns more wood, coal, and carbon than ever before.
+
+
+
+More and More and More forces readers to confront hard truths, including how “transition” was originally promoted by energy companies, not as a genuine plan, but as a way to put off any meaningful change. It offers a clear-eyed understanding of the modern world in all its voracious reality and shines a hard light on the true nature of the enormous challenges eight billion of us face, as we stand at the precipice of planetary crisis.
 
 ---
 
