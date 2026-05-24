@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 26 books**
+**Total: 27 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -335,6 +335,43 @@ Teose „Lapse ja inimkonna tee kritseldustest kunstini“ kolmandas köites „
 Autor Aaro Toomela ütleb: "See on raamat inimlapse Minu Ise ehk psüühika arengust. Autorile omaselt osutub näiliselt lihtne lähemal uurimisel mitmekülgseks ja keeruliseks. Arengu mõistmiseks peab näiteks aru saama, mida pidada psüühikaks ja kas inimestel on see kuidagi eriline. Need ja hulk teisi psüühikasse puutuvaid küsimusi ning vastused ei mahtunud ühte raamatusse. Seetõttu on osa selle raamatu mõistmiseks vajalikku kirjas juba minu eelmises raamatus “Kultuur, kõne ja Minu Ise”. Käeolevas raamatus aga saame teada, mis on areng ja mida tähendab arengustaadium. Näeme, mismoodi lapse areng staadiumidesse järjestub. Ajustki on juttu. Teooria järel uurime enam kui tuhandet uuringutulemust ja võime raamatu lõpuks rahuneda – teooria sobib andmetega ja andmed sobivad teooriaga.
 
 Võimalikul lugejal tasub nüüd küsida - Ja mis siis? Siis on see, et raamatu läbilugemise järel olete enda kohta palju asju teada saanud. Sest see raamat on igast Inimesest, kes inimlapsest just selliseks on arenenud, nagu ta praegu on – see raamat on igast selle lugejast."
+
+---
+
+### Die with Zero: Getting All You Can from Your Money and Your Life
+**Author:** Bill Perkins  
+**Published:** 2020  
+**Finished:** 2026-05  
+**Rating:** ⭐⭐⭐⭐  
+**Pages:** 225  
+
+![[covers/Die with Zero Getting All You Can from Your Money and Your Life.jpg|150]]  
+
+A Common-Sense Guide to Living Rich….Instead of Dying Rich
+
+
+
+Imagine if by the time you died, you did everything you were told to. You worked hard, saved your money, and looked forward to financial freedom when you retired.
+
+ 
+
+The only thing you wasted along the way was…your life.
+
+ 
+
+Die with Zero presents a startling new and provocative philosophy as well as practical guide on how to get the most out of your money—and out of your life. It’s intended for those who place lifelong memorable experiences far ahead of simply making and accumulating money for one’s so-called Golden Years.
+
+ 
+
+In short, Bill Perkins wants to rescue you from over-saving and under-living. Regardless of your age, Die with Zero will teach you Perkins’ plan for optimizing your life, stage by stage, so you’re fully engaged and enjoying what you’ve worked and saved for.
+
+ 
+
+You’ll discover how to maximize your lifetime memorable moments with “experience bucketing,” how to convert your earnings into priceless memories by following your “net worth curve,” and find out how to navigate whether to invest in, or delay, a meaningful adventure based on your “spend curve” and “personal interest rate.”
+
+ 
+
+Using his own life experiences as well as the inspiring stories and cautionary tales of others—and drawing on eye-opening insights about time, money, and happiness from psychological science and behavioral finance —Perkins makes a timely, convincing, and contrarian case for living large.
 
 ---
 
