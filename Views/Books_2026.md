@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 27 books**
+**Total: 28 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -422,6 +422,19 @@ More and More and More demolishes this disastrous fallacy, showing how our indus
 
 
 More and More and More forces readers to confront hard truths, including how “transition” was originally promoted by energy companies, not as a genuine plan, but as a way to put off any meaningful change. It offers a clear-eyed understanding of the modern world in all its voracious reality and shines a hard light on the true nature of the enormous challenges eight billion of us face, as we stand at the precipice of planetary crisis.
+
+---
+
+### Omailmad
+**Author:** Jakob Johann von Uexküll  
+**Published:** 2012  
+**Finished:** 2026-05  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 416  
+
+![[covers/Omailmad.jpg|150]]  
+
+Baltisaksa teadlane, Eestis elanud ja Tartu Ülikoolis zooloogiat õppinud Jakob von Uexküll (1864–1944) on maailma mõttelukku läinud biosemiootika rajaleidjana. Semiootika kõrval on Uexkülli töödel olnud märkimisväärne tähtsus nii tema kaasaegse kui ka hilisema filosoofilise mõtte arengus, seda nii katsetes tõmmata eraldusjoont inimeste ja loomade maailma vahele kui ka osutada neid ühendavale tajumaailma loomise ja liigendamise võimele. Kalevi Kulli ja Riin Magnuse poolt koostatud Uexkülli Mõtteloo-kogumik “Omailmad” sisaldab valikut populaarteaduslikest ja teaduslikest tekstidest ning mälestustest. See on seni kõige põhjalikum eestikeelne ülevaade Jakob von Uexkülli töödest ja tegemistest. Raamatul on koostajate saatesõna ning tekstides kasutatud terminite loend.
 
 ---
 
