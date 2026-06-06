@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 28 books**
+**Total: 29 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -485,6 +485,19 @@ But somehow some people become quite accomplished at managing information flow. 
 
 
 With lively, entertaining chapters on everything from the kitchen junk drawer to health care to executive office workflow, Levitin reveals how new research into the cognitive neuroscience of attention and memory can be applied to the challenges of our daily lives.  This Is Your Brain on Music  showed how to better play and appreciate music through an understanding of how the brain works.  The Organized Mind  shows how to navigate the churning flood of information in the twenty-first century with the same neuroscientific perspective.
+
+---
+
+### Ilmast ja inimestest
+**Author:** Tarmo Soomere  
+**Published:** 2022  
+**Finished:** 2026-06  
+**Rating:** ⭐⭐⭐⭐  
+**Pages:** 432  
+
+![[covers/Ilmast ja inimestest.jpg|150]]  
+
+Eesti Teaduste Akadeemia presidendi Tarmo Soomere vormilt sõnavõttude ja kirjutiste, sisult akadeemiliste arutluste kogumik (“Eesti Mõtteloo” sarjas nr. 164) vastab ühest küljest meie rahva kõige ajakajalisematele küsimustele, teisalt aga annab teadusmaailmale võimaluse selgitada selges, huvitavas ja humoorikaski keeles oma uuemaid saavutusi ja avastusi. Peaaegu iga osa taustaks ja ajendiks on mõni tuline vaidlus Eesti ühiskonnas. Olgu teemaks globaalne või lokaalne, inimene või ühiskond, tervis, väärtused raha või kosmos, vaimsus või religioon, tehnoloogia või tehisintellekt – sõnastuselt on need tekstid kõned, mida võib eeskujuks võtta iga retoorikast huvitatud õppur või teadur.
 
 ---
 
