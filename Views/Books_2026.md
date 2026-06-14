@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 30 books**
+**Total: 31 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -523,6 +523,53 @@ Moving away from procedural or principled conceptions of democracy, Elites and D
 ![[covers/Ilmast ja inimestest.jpg|150]]  
 
 Eesti Teaduste Akadeemia presidendi Tarmo Soomere vormilt sõnavõttude ja kirjutiste, sisult akadeemiliste arutluste kogumik (“Eesti Mõtteloo” sarjas nr. 164) vastab ühest küljest meie rahva kõige ajakajalisematele küsimustele, teisalt aga annab teadusmaailmale võimaluse selgitada selges, huvitavas ja humoorikaski keeles oma uuemaid saavutusi ja avastusi. Peaaegu iga osa taustaks ja ajendiks on mõni tuline vaidlus Eesti ühiskonnas. Olgu teemaks globaalne või lokaalne, inimene või ühiskond, tervis, väärtused raha või kosmos, vaimsus või religioon, tehnoloogia või tehisintellekt – sõnastuselt on need tekstid kõned, mida võib eeskujuks võtta iga retoorikast huvitatud õppur või teadur.
+
+---
+
+### Reader, Come Home: The Reading Brain in a Digital World
+**Author:** Maryanne Wolf  
+**Published:** 2018  
+**Finished:** 2026-06  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 272  
+
+![[covers/Reader Come Home The Reading Brain in a Digital World.jpg|150]]  
+
+The author of the acclaimed Proust and the Squid follows up with a lively, ambitious, and deeply informative book that considers the future of the reading brain and our capacity for critical thinking, empathy, and reflection as we become increasingly dependent on digital technologies.
+
+
+
+
+
+A decade ago, Maryanne Wolf’s Proust and the Squid revealed what we know about how the brain learns to read and how reading changes the way we think and feel. Since then, the ways we process written language have changed dramatically with many concerned about both their own changes and that of children. New research on the reading brain chronicles these changes in the brains of children and adults as they learn to read while immersed in a digitally dominated medium.
+
+
+
+Drawing deeply on this research, this book comprises a series of letters Wolf writes to us—her beloved readers—to describe her concerns and her hopes about what is happening to the reading brain as it unavoidably changes to adapt to digital mediums. Wolf raises difficult questions, including:
+
+
+
+
+
+Will children learn to incorporate the full range of "deep reading" processes that are at the core of the expert reading brain?
+
+Will the mix of a seemingly infinite set of distractions for children’s attention and their quick access to immediate, voluminous information alter their ability to think for themselves?
+
+With information at their fingertips, will the next generation learn to build their own storehouse of knowledge, which could impede the ability to make analogies and draw inferences from what they know?
+
+Will all these influences, in turn, change the formation in children and the use in adults of "slower" cognitive processes like critical thinking, personal reflection, imagination, and empathy that comprise deep reading and that influence both how we think and how we live our lives?
+
+Will the chain of digital influences ultimately influence the use of the critical analytical and empathic capacities necessary for a democratic society?
+
+How can we preserve deep reading processes in future iterations of the reading brain?
+
+Who are the "good readers" of every epoch?
+
+Concerns about attention span, critical reasoning, and over-reliance on technology are never just about children—Wolf herself has found that, though she is a reading expert, her ability to read deeply has been impacted as she has become, inevitably, increasingly dependent on screens.
+
+
+
+Wolf draws on neuroscience, literature, education, technology, and philosophy and blends historical, literary, and scientific facts with down-to-earth examples and warm anecdotes to illuminate complex ideas that culminate in a proposal for a biliterate reading brain. Provocative and intriguing, Reader, Come Home is a roadmap that provides a cautionary but hopeful perspective on the impact of technology on our brains and our most essential intellectual capacities—and what this could mean for our future
 
 ---
 
