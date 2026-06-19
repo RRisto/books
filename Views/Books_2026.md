@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 31 books**
+**Total: 32 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -570,6 +570,29 @@ Concerns about attention span, critical reasoning, and over-reliance on technolo
 
 
 Wolf draws on neuroscience, literature, education, technology, and philosophy and blends historical, literary, and scientific facts with down-to-earth examples and warm anecdotes to illuminate complex ideas that culminate in a proposal for a biliterate reading brain. Provocative and intriguing, Reader, Come Home is a roadmap that provides a cautionary but hopeful perspective on the impact of technology on our brains and our most essential intellectual capacities—and what this could mean for our future
+
+---
+
+### Science Under Siege: How to Fight the Five Most Powerful Forces that Threaten Our World
+**Author:** Michael E. Mann,  Peter Hotez  
+**Published:** 2025  
+**Finished:** 2026-06  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 368  
+
+![[covers/Science Under Siege How to Fight the Five Most Powerful Forces that Threaten Our World.jpg|150]]  
+
+Two of the world’s most respected scientists reveal the forces behind the dangerous anti-science movement—and show us how to fight back
+
+From pandemics to the climate crisis, humanity faces tougher challenges than ever. Whether it’s the health of our people or the health of our planet, we know we are on an unsustainable path. But our efforts to effectively tackle these existential crises are now hampered by a common politically and ideologically motivated opposition to science.
+
+
+
+Michael E. Mann and Peter J. Hotez are two of the most respected and well-known scientists in the world and have spent the last twenty years on the front lines of the battle to convey accurate, reliable, and trustworthy information about science in the face of determined and nihilistic opposition.
+
+
+
+In this powerful manifesto, they reveal the five main forces threatening plutocrats, pros, petrostates, phonies, and the press. It is a call to arms and a road map for dismantling the forces of anti-science. Armed with the information in this book, we can be empowered to promote scientific truths, shine light on channels of dark money, dismantle the corporations poisoning the planet, and ultimately avert disaster.
 
 ---
 
