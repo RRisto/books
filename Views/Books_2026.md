@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 32 books**
+**Total: 33 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -523,6 +523,27 @@ Moving away from procedural or principled conceptions of democracy, Elites and D
 ![[covers/Ilmast ja inimestest.jpg|150]]  
 
 Eesti Teaduste Akadeemia presidendi Tarmo Soomere vormilt sõnavõttude ja kirjutiste, sisult akadeemiliste arutluste kogumik (“Eesti Mõtteloo” sarjas nr. 164) vastab ühest küljest meie rahva kõige ajakajalisematele küsimustele, teisalt aga annab teadusmaailmale võimaluse selgitada selges, huvitavas ja humoorikaski keeles oma uuemaid saavutusi ja avastusi. Peaaegu iga osa taustaks ja ajendiks on mõni tuline vaidlus Eesti ühiskonnas. Olgu teemaks globaalne või lokaalne, inimene või ühiskond, tervis, väärtused raha või kosmos, vaimsus või religioon, tehnoloogia või tehisintellekt – sõnastuselt on need tekstid kõned, mida võib eeskujuks võtta iga retoorikast huvitatud õppur või teadur.
+
+---
+
+### Kasvatus ja haridus
+**Author:** Hilda Taba  
+**Published:** 2015  
+**Finished:** 2026-06  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 371  
+
+![[covers/Kasvatus ja haridus.jpg|150]]  
+
+Läinud sajandi tuntumaid pedagoogikateadlasi Hilda Taba (1902–1967) sündis, kasvas üles ja sai hariduse Eestis, kuid tegutses peamiselt Ameerika Ühendriikides, jäädes kodumaal kauaks tundmatuks.
+
+
+
+Raamatu “Kasvatus ja haridus” esimeses osas leidub kaheksa Taba eesti keeles kirjutatud artiklit. Nendest kuus tutvustavad eesti lugejale Ühendriikide elu-olu, kasvatust ja haridust.
+
+
+
+Raamatu teine osa koosneb Hilda Taba 1930. aastal ingliskeelsena valminud doktoritöö tõlkest eesti keelde. Selle eessõnas ütleb doktoritöö juhendaja prof. Kilpatrick: “Autor asetab põhirõhu kujunemise mõistele. [
 
 ---
 
