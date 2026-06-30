@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 33 books**
+**Total: 34 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -614,6 +614,23 @@ Michael E. Mann and Peter J. Hotez are two of the most respected and well-known 
 
 
 In this powerful manifesto, they reveal the five main forces threatening plutocrats, pros, petrostates, phonies, and the press. It is a call to arms and a road map for dismantling the forces of anti-science. Armed with the information in this book, we can be empowered to promote scientific truths, shine light on channels of dark money, dismantle the corporations poisoning the planet, and ultimately avert disaster.
+
+---
+
+### Thought and Language
+**Author:** Lev Semyonovich Vygotsky  
+**Published:** 1986  
+**Finished:** 2026-06  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 344  
+
+![[covers/Thought and Language.jpg|150]]  
+
+Since it was introduced to the English-speaking world in 1962, Lev Vygotsky's highly original exploration of human mental development has become recognized as a classic foundational work of cognitive science. Vygotsky analyzes the relationship between words and consciousness, arguing that speech is social in its origins and that only as children develop does it become internalized verbal thought.
+
+
+
+Now Alex Kozulin has created a new edition of the original MIT Press translation by Eugenia Hanfmann and Gertrude Vakar that restores the work's complete text and adds materials that will help readers better understand Vygotsky's meaning and intentions. Kozulin has also contributed an introductory essay that offers new insight into the author's life, intellectual milieu, and research methods.
 
 ---
 
