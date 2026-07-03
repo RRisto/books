@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 34 books**
+**Total: 35 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -631,6 +631,19 @@ Since it was introduced to the English-speaking world in 1962, Lev Vygotsky's hi
 
 
 Now Alex Kozulin has created a new edition of the original MIT Press translation by Eugenia Hanfmann and Gertrude Vakar that restores the work's complete text and adds materials that will help readers better understand Vygotsky's meaning and intentions. Kozulin has also contributed an introductory essay that offers new insight into the author's life, intellectual milieu, and research methods.
+
+---
+
+### Mind in Society: The Development of Higher Psychological Processes
+**Author:** Lev Semyonovich Vygotsky  
+**Published:** 1978  
+**Finished:** 2026-07  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 159  
+
+![[covers/Mind in Society The Development of Higher Psychological Processes.jpg|150]]  
+
+The great Russian psychologist L. S. Vygotsky has long been recognized as a pioneer in developmental psychology. But somewhat ironically, his theory of development has never been well understood in the West. Mind in Society should correct much of this misunderstanding. Carefully edited by a group of outstanding Vygotsky scholars, the book presents a unique selection of Vygotsky's important essays, most of which have previously been unavailable in English. The Vygotsky who emerges from these pages can no longer be glibly included among the neobehaviorists. In these essays he outlines a dialectical-materialist theory of cognitive development that anticipates much recent work in American social science. The mind, Vygotsky argues, cannot be understood in isolation from the surrounding society. Man is the only animal who uses tools to alter his own inner world as well as the world around him. From the handkerchief knotted as a simple mnemonic device to the complexities of symbolic language, society provides the individual with technology that can be used to shape the private processes of mind. In Mind in Society Vygotsky applies this theoretical framework to the development of perception, attention, memory, language, and play, and he examines its implications for education. The result is a remarkably interesting book that is bound to renew Vygotsky's relevance to modem psychological thought.
 
 ---
 
