@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 35 books**
+**Total: 36 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -631,6 +631,27 @@ Since it was introduced to the English-speaking world in 1962, Lev Vygotsky's hi
 
 
 Now Alex Kozulin has created a new edition of the original MIT Press translation by Eugenia Hanfmann and Gertrude Vakar that restores the work's complete text and adds materials that will help readers better understand Vygotsky's meaning and intentions. Kozulin has also contributed an introductory essay that offers new insight into the author's life, intellectual milieu, and research methods.
+
+---
+
+### Democracy for Realists: Why Elections Do Not Produce Responsive Government
+**Author:** Christopher H. Achen,  Larry M. Bartels  
+**Published:** 2016  
+**Finished:** 2026-07  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 408  
+
+![[covers/Democracy for Realists Why Elections Do Not Produce Responsive Government.jpg|150]]  
+
+Democracy for Realists assails the romantic folk-theory at the heart of contemporary thinking about democratic politics and government, and offers a provocative alternative view grounded in the actual human nature of democratic citizens.
+
+
+
+Christopher Achen and Larry Bartels deploy a wealth of social-scientific evidence, including ingenious original analyses of topics ranging from abortion politics and budget deficits to the Great Depression and shark attacks, to show that the familiar ideal of thoughtful citizens steering the ship of state from the voting booth is fundamentally misguided. They demonstrate that voters even those who are well informed and politically engaged mostly choose parties and candidates on the basis of social identities and partisan loyalties, not political issues. They also show that voters adjust their policy views and even their perceptions of basic matters of fact to match those loyalties. When parties are roughly evenly matched, elections often turn on irrelevant or misleading considerations such as economic spurts or downturns beyond the incumbents' control; the outcomes are essentially random. Thus, voters do not control the course of public policy, even indirectly.
+
+
+
+Achen and Bartels argue that democratic theory needs to be founded on identity groups and political parties, not on the preferences of individual voters. "Democracy for Realists" provides a powerful challenge to conventional thinking, pointing the way toward a fundamentally different understanding of the realities and potential of democratic government."
 
 ---
 
