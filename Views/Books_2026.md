@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 36 books**
+**Total: 37 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -665,6 +665,23 @@ Achen and Bartels argue that democratic theory needs to be founded on identity g
 ![[covers/Mind in Society The Development of Higher Psychological Processes.jpg|150]]  
 
 The great Russian psychologist L. S. Vygotsky has long been recognized as a pioneer in developmental psychology. But somewhat ironically, his theory of development has never been well understood in the West. Mind in Society should correct much of this misunderstanding. Carefully edited by a group of outstanding Vygotsky scholars, the book presents a unique selection of Vygotsky's important essays, most of which have previously been unavailable in English. The Vygotsky who emerges from these pages can no longer be glibly included among the neobehaviorists. In these essays he outlines a dialectical-materialist theory of cognitive development that anticipates much recent work in American social science. The mind, Vygotsky argues, cannot be understood in isolation from the surrounding society. Man is the only animal who uses tools to alter his own inner world as well as the world around him. From the handkerchief knotted as a simple mnemonic device to the complexities of symbolic language, society provides the individual with technology that can be used to shape the private processes of mind. In Mind in Society Vygotsky applies this theoretical framework to the development of perception, attention, memory, language, and play, and he examines its implications for education. The result is a remarkably interesting book that is bound to renew Vygotsky's relevance to modem psychological thought.
+
+---
+
+### Sotsiaal- ja kultuuriantropoloogia: Õpik kõrgkoolidele
+**Author:** Aet Annist, Maarja Kaaristo, Katrin Alekand, Carlo A. Cubero, Marje Ermel, Toomas Gross, Kirsti Jõesalu, Ehti Järv, Eeva Kesküla, Helleka Koppel, Katre Koppel, Ene Koresaar, Elo Luik, Triinu Mets, Joonas Plaan, Riina Raudne,  arko Uibu, Laur Vallikivi, Mart Viirand  
+**Published:** 2023  
+**Finished:** 2026-07  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 496  
+
+![[covers/Sotsiaal- ja kultuuriantropoloogia Õpik kõrgkoolidele.webp|150]]  
+
+Esimene algupärane eestikeelne sotsiaal- ja kultuuriantropoloogia õpik koondab kokku antropoloogia olulisemad teemad, lisades ülevaatele maailma antropoloogidest ja klassikalistest antropoloogilistest uurimustest näiteid Eestist ja Eesti uurijatelt. Algselt 2017. aastal ilmunud õpikut on 2023. aastal täiendatud ja ajakohastatud. Viidatakse aastate jooksul eestindatud tekstidele, kasutatakse väljakujunenud termineid, ent luuakse ka uusi. Tulemus on seetõttu õpiku toimetajate, autorite ja Eesti nüüdse uurimisseisu nägu: siinsed rõhuasetused peegeldavad seda, milliste teemadega Eesti antropoloogid ja etnoloogid praegu tegelevad.
+
+Õpik on kirjutatud pidades silmas esmajoones bakalaureusetaseme üliõpilasi mitmetel erialadel: sotsiaal- ja kultuuriantropoloogia, etnoloogia, folkloristika, kultuuriuuringud, sotsioloogia jpt. Antropoloogiaga tutvumiseks sobib see aga kõigile huvilistele, sealhulgas abituuriumis ühiskonnaõpetuse täienduseks.
+
+Igapäevasemalt annab antropoloogiline lähenemine võimaluse leida analüütilist meelerahu tulistes vaidlustes ja olukordades, kus on kerge ehmatada ligimeste käitumise või arusaamade üle või nende pärast nördida. Antropoloogi ülesanne on selle asemel samm kõrvale astuda ja olla põnevil, püüda mõista kaasinimeste kummastavaid sõnumeid või tegusid. Selle teekonna alustamiseks, aga ka lihtsalt antropoloogiahuvilistele ja neile, kes teistest aru tahavad saada, ongi mõeldud käesolev õpik.
 
 ---
 
