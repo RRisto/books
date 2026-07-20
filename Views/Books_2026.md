@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 37 books**
+**Total: 38 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -682,6 +682,19 @@ Esimene algupärane eestikeelne sotsiaal- ja kultuuriantropoloogia õpik koondab
 Õpik on kirjutatud pidades silmas esmajoones bakalaureusetaseme üliõpilasi mitmetel erialadel: sotsiaal- ja kultuuriantropoloogia, etnoloogia, folkloristika, kultuuriuuringud, sotsioloogia jpt. Antropoloogiaga tutvumiseks sobib see aga kõigile huvilistele, sealhulgas abituuriumis ühiskonnaõpetuse täienduseks.
 
 Igapäevasemalt annab antropoloogiline lähenemine võimaluse leida analüütilist meelerahu tulistes vaidlustes ja olukordades, kus on kerge ehmatada ligimeste käitumise või arusaamade üle või nende pärast nördida. Antropoloogi ülesanne on selle asemel samm kõrvale astuda ja olla põnevil, püüda mõista kaasinimeste kummastavaid sõnumeid või tegusid. Selle teekonna alustamiseks, aga ka lihtsalt antropoloogiahuvilistele ja neile, kes teistest aru tahavad saada, ongi mõeldud käesolev õpik.
+
+---
+
+### Võrdsuse lühiajalugu
+**Author:** Thomas Piketty  
+**Published:** 2026  
+**Finished:** 2026-07  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 344  
+
+![[covers/Võrdsuse lühiajalugu.jpg|150]]  
+
+Maailmas valitsev ebavõrdsus võib panna lootust kaotama, kuid selles mõjukas teoses näitab prantsuse majandusteadlane Thomas Piketty, et ajalugu annab põhjust optimismiks. Vaatamata tagasilangustele oleme sajandite jooksul liikunud üha suurema võrdsuse poole. Raamat annab ülevaate olulistest faktoritest, mis on maailma positiivselt või negatiivselt mõjutanud: sõjad, revolutsioonid, orjandus, kapitalismi tõus ja heaoluriigi teke. Üldises plaanis on ühiskonnad liikunud sissetulekute ja varade õiglasema jaotuse, rassilise ja soolise ebavõrdsuse vähendamise ning tervishoiu, hariduse ja kodanikuõiguste parema kättesaadavuse poole. Edasiminekuks tuleb aga meeles pidada mineviku õppetunde.
 
 ---
 
