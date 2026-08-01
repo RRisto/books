@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 39 books**
+**Total: 40 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -706,6 +706,19 @@ Igapäevasemalt annab antropoloogiline lähenemine võimaluse leida analüütili
 ![[covers/Võrdsuse lühiajalugu.jpg|150]]  
 
 Maailmas valitsev ebavõrdsus võib panna lootust kaotama, kuid selles mõjukas teoses näitab prantsuse majandusteadlane Thomas Piketty, et ajalugu annab põhjust optimismiks. Vaatamata tagasilangustele oleme sajandite jooksul liikunud üha suurema võrdsuse poole. Raamat annab ülevaate olulistest faktoritest, mis on maailma positiivselt või negatiivselt mõjutanud: sõjad, revolutsioonid, orjandus, kapitalismi tõus ja heaoluriigi teke. Üldises plaanis on ühiskonnad liikunud sissetulekute ja varade õiglasema jaotuse, rassilise ja soolise ebavõrdsuse vähendamise ning tervishoiu, hariduse ja kodanikuõiguste parema kättesaadavuse poole. Edasiminekuks tuleb aga meeles pidada mineviku õppetunde.
+
+---
+
+### Madise lood
+**Author:** Toivo Kalve  
+**Published:** 2018  
+**Finished:** 2026-08  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 168  
+
+![[covers/Madise lood.webp|150]]  
+
+Käesolevas raamatus käsitleb autor valikuliselt viimase 800 aasta sündmusi Harju-Madise kihelkonnas. Raamatus antakse lühiülevaade kihelkonnast sirgunud väljapaistvatest ühiskonna- ja kultuuritegelastest. Autor pajatab maarahva igapäevaelust ja ka naljakatest juhtumitest. Samuti on puudutatud NSV Liidu ja Saksa okupatsiooniga seotud sündmusi.
 
 ---
 
