@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 40 books**
+**Total: 41 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -719,6 +719,27 @@ Maailmas valitsev ebavõrdsus võib panna lootust kaotama, kuid selles mõjukas 
 ![[covers/Madise lood.webp|150]]  
 
 Käesolevas raamatus käsitleb autor valikuliselt viimase 800 aasta sündmusi Harju-Madise kihelkonnas. Raamatus antakse lühiülevaade kihelkonnast sirgunud väljapaistvatest ühiskonna- ja kultuuritegelastest. Autor pajatab maarahva igapäevaelust ja ka naljakatest juhtumitest. Samuti on puudutatud NSV Liidu ja Saksa okupatsiooniga seotud sündmusi.
+
+---
+
+### Semiootika
+**Author:** Kalevi Kull, Kati Lindström, Mihhail Lotman, Riin Magnus, Kaire Maimets, Timo Maran, Rauno Thomas Moss, Ülle Pärli, Katre Pärn, Anti Randviir, Tiit Remm, Silvi Salupere, Virve Sarapik, Elin Sütiste, Peeter Torop, Andreas Ventsel, Vadim Verenitš, Katre Väli  
+**Published:** 2018  
+**Finished:** 2026-08  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 537  
+
+![[covers/Semiootika.jpg|150]]  
+
+Tähendustemaailm on keskkond, milles me möödapääsmatult iga päev elame ja osaleme. Semiootika ülesandeks pole mitte üksnes orienteeruda kõikvõimalikes tähendustasandites ja märgilisuse tüüpides, vaid ka tähendusloome praktikates, mis kultuuri ja kogu elu kujundavad. Käesolev raamat on esimesi eestikeelseid semiootika õpikuid, mis püüab pakkuda võimalikult terviklikku käsitlust.
+
+
+
+Raamatu sissejuhatavale peatükile, milles esitatakse lühidalt semiootika määratlus ja tähtsamad allikad, järgnevad neli osa. Esimene neist annab ülevaate semiootika ajaloost ja peamistest koolkondadest. Teine osa on pühendatud semiootika klassikutele: siinses valikus Charles S. Peirce, Ferdinand de Saussure, Jakob von Uexküll, Charles Morris, Roman Jakobson, Algirdas Greimas, Juri Lotman, Umberto Eco, Thomas Sebeok. Kolmas osa on ülevaade kolmest olulisest semiootika valdkonnast – kultuuri-, sotsio- ja biosemiootikast. Neljandas osas esitatakse sissejuhatused reasse semiootika harudesse ja rakendusaladesse.
+
+
+
+Oma nägemuse klassikutest ja semiootika kujunemisest vormis piltideks semiootikust kunstnik Rauno Thomas Moss. Õpiku lõpus on toodud peamiste mõistete lühiseletused, samuti nimede ja terminite indeksid ning põhjalik bibliograafia. Kuigi raamat on eeskätt mõeldud abivahendiks semiootikatudengitele, on selle koostamisel ja kirjutamisel silmas peetud ka laiemat lugejaskonda.
 
 ---
 
