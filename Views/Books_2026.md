@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 41 books**
+**Total: 42 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -706,6 +706,31 @@ Igapäevasemalt annab antropoloogiline lähenemine võimaluse leida analüütili
 ![[covers/Võrdsuse lühiajalugu.jpg|150]]  
 
 Maailmas valitsev ebavõrdsus võib panna lootust kaotama, kuid selles mõjukas teoses näitab prantsuse majandusteadlane Thomas Piketty, et ajalugu annab põhjust optimismiks. Vaatamata tagasilangustele oleme sajandite jooksul liikunud üha suurema võrdsuse poole. Raamat annab ülevaate olulistest faktoritest, mis on maailma positiivselt või negatiivselt mõjutanud: sõjad, revolutsioonid, orjandus, kapitalismi tõus ja heaoluriigi teke. Üldises plaanis on ühiskonnad liikunud sissetulekute ja varade õiglasema jaotuse, rassilise ja soolise ebavõrdsuse vähendamise ning tervishoiu, hariduse ja kodanikuõiguste parema kättesaadavuse poole. Edasiminekuks tuleb aga meeles pidada mineviku õppetunde.
+
+---
+
+### Elemental: The New Geography of Climate Change and How We Survive It: The first comprehensive account of the geopolitics of climate change
+**Author:** Arthur Snell  
+**Published:** 2026  
+**Finished:** 2026-08  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 384  
+
+![[covers/Elemental The New Geography of Climate Change and How We Survive It The first comprehensive account of the geopolitics of climate change.jpg|150]]  
+
+From the water-stressed mountains of the Arabian Peninsula to the wildfires raging through America's most populated regions, the climate crisis is already affecting the lives of millions. As natural disasters and increased scarcity shake the established world order to its core, Elemental reveals an alternative future is still possible.
+
+
+
+Within this century, the new era of extreme weather will threaten India's ability to grow rice, prevent southern Europe's farms from providing the continent with fresh produce, and make building in Saudi Arabia near impossible. While such unprecedented challenges inevitably drive conflict, they will also encourage innovation, upending economies and global power structures to create opportunities for new players and pioneering ways of living.
+
+
+
+In this groundbreaking study, Arthur Snell visits rapidly changing societies to show how we can live on a warming planet. He presents a vision in which Africa powers Europe with solar energy, where autocratic oil states are no more, and new shipping routes across the melting Arctic bring Asia, Europe and North America closer than ever before. In Russia, huge areas of highly fertile land will be exposed by the melting ice for whoever can seize it, while China's stranglehold on rare minerals looks set to make it the world's leading superpower.
+
+
+
+Through four sections - Earth, Air, Fire and Water - Elemental blends reportage with analysis and interviews with key experts, policymakers and politicians, to reveal the turbulent future we face - and the choices we need to make to avert disaster.
 
 ---
 
