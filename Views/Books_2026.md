@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 43 books**
+**Total: 44 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -757,6 +757,19 @@ Through four sections - Earth, Air, Fire and Water - Elemental blends reportage 
 ![[covers/Madise lood.webp|150]]  
 
 Käesolevas raamatus käsitleb autor valikuliselt viimase 800 aasta sündmusi Harju-Madise kihelkonnas. Raamatus antakse lühiülevaade kihelkonnast sirgunud väljapaistvatest ühiskonna- ja kultuuritegelastest. Autor pajatab maarahva igapäevaelust ja ka naljakatest juhtumitest. Samuti on puudutatud NSV Liidu ja Saksa okupatsiooniga seotud sündmusi.
+
+---
+
+### Orality and Literacy: The Technologizing of the Word
+**Author:** Walter J. Ong  
+**Published:** 1982  
+**Finished:** 2026-08  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 245  
+
+![[covers/Orality and Literacy The Technologizing of the Word.jpg|150]]  
+
+This classic work explores the vast differences between oral and literate cultures offering a very clear account of the intellectual, literary and social effects of writing, print and electronic technology. In the course of his study, Walter J. Ong offers fascinating insights into oral genres across the globe and through time, and examines the rise of abstract philosophical and scientific thinking. He considers the impact of orality-literacy studies not only on literary criticism and theory but on our very understanding of what it is to be a human being, conscious of self and other. This is a book no reader, writer or speaker should be without.
 
 ---
 
