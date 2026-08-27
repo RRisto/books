@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 44 books**
+**Total: 45 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -757,6 +757,19 @@ Through four sections - Earth, Air, Fire and Water - Elemental blends reportage 
 ![[covers/Madise lood.webp|150]]  
 
 Käesolevas raamatus käsitleb autor valikuliselt viimase 800 aasta sündmusi Harju-Madise kihelkonnas. Raamatus antakse lühiülevaade kihelkonnast sirgunud väljapaistvatest ühiskonna- ja kultuuritegelastest. Autor pajatab maarahva igapäevaelust ja ka naljakatest juhtumitest. Samuti on puudutatud NSV Liidu ja Saksa okupatsiooniga seotud sündmusi.
+
+---
+
+### Nature, Society, and Justice in the Anthropocene: Unraveling the Money-Energy-Technology Complex
+**Author:** Alf Hornborg  
+**Published:** 2019  
+**Finished:** 2026-08  
+**Rating:** ⭐⭐⭐⭐  
+**Pages:** 288  
+
+![[covers/Nature Society and Justice in the Anthropocene Unraveling the Money-Energy-Technology Complex.jpeg|150]]  
+
+Are money and technology the core illusions of our time? In this book, Alf Hornborg offers a fresh assessment of the inequalities and environmental degradation of the world. He shows how both mainstream and radical economists are limited by a particular worldview and, as a result, do not grasp that conventional money is at the root of many of the problems that are threatening societies, not to mention planet Earth itself. Hornborg demonstrates how market prices obscure asymmetric exchanges of resources - human labor, land, energy, materials - under a veil of fictive reciprocity. Such unequal exchange, he claims, underpins the phenomenon of technological development, which is, fundamentally, a redistribution of time and space - human labor and land - in world society. Hornborg deftly illustrates how money and technology have shaped our thinking and our social and ecological relations, with disturbing consequences. He also offers solutions for their redesign in ways that will promote justice and sustainability.
 
 ---
 
