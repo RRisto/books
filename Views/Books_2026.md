@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 45 books**
+**Total: 46 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -804,6 +804,27 @@ Raamatu sissejuhatavale peatükile, milles esitatakse lühidalt semiootika mää
 
 
 Oma nägemuse klassikutest ja semiootika kujunemisest vormis piltideks semiootikust kunstnik Rauno Thomas Moss. Õpiku lõpus on toodud peamiste mõistete lühiseletused, samuti nimede ja terminite indeksid ning põhjalik bibliograafia. Kuigi raamat on eeskätt mõeldud abivahendiks semiootikatudengitele, on selle koostamisel ja kirjutamisel silmas peetud ka laiemat lugejaskonda.
+
+---
+
+### The Uncontrollability of the World
+**Author:** Hartmut Rosa  
+**Published:** 2020  
+**Finished:** 2026-08  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 140  
+
+![[covers/The Uncontrollability of the World.jpg|150]]  
+
+The driving cultural force of that form of life we call 'modern' is the desire to make the world controllable. Yet it is only in encountering the uncontrollable that we really experience the world - only then do we feel touched, moved and alive. A world that is fully known, in which everything has been planned and mastered, would be a dead world.
+
+
+
+Our lives are played out on the border between what we can control and that which lies outside our control. But because we late-modern human beings seek to make the world controllable, we tend to encounter the world as a series of objects that we have to conquer, master or exploit. And precisely because of this, 'life, ' the experience of feeling alive and truly encountering the world, always seems to elude us. This in turn leads to frustration, anger and even despair, which then manifest themselves in, among other things, acts of impotent political aggression. For Rosa, to encounter the world and achieve resonance with it requires us to be open to that which extends beyond our control. The outcome of this process cannot be predicted, and this is why moments of resonance are always concomitant with moments of uncontrollability.
+
+
+
+This short book - the sequel to Rosa's path-breaking work on social acceleration and resonance - will be of great interest students and scholars in sociology and the social sciences and to anyone concerned with the nature of modern social life.
 
 ---
 
