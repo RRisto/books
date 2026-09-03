@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 46 books**
+**Total: 47 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -825,6 +825,21 @@ Our lives are played out on the border between what we can control and that whic
 
 
 This short book - the sequel to Rosa's path-breaking work on social acceleration and resonance - will be of great interest students and scholars in sociology and the social sciences and to anyone concerned with the nature of modern social life.
+
+---
+
+### Olid alles ajad! Taasiseseisvunud Eesti Vabariik 25
+**Author:** Helen Lausma-Saar  
+**Published:** 2016  
+**Finished:** 2026-09  
+**Rating:** ⭐⭐⭐⭐  
+**Pages:** 320  
+
+![[covers/Olid alles ajad Taasiseseisvunud Eesti Vabariik 25.webp|150]]  
+
+Olid alles ajad! Taasiseseisvunud Eesti Vabariik 25" koondab toonaste rahvarindelaste, Rahvarinde Muuseumi juurde loodud Rahvarinde Seltsingu liikmete meenutusi päevadest ja tegudest, mis viisid Eesti iseseisvuse taastamiseni. Avame raamatu ... ja lehekülg lehekülje järel saame osa neist pöördelistest sündmustest, meie vaba riigi taassünni saagast. See on meie ühine ajalugu, nagu seda tehti veerand sajandit tagasi.
+
+Mida rohkem mälestusi on tulevaste põlvede jaoks talletatud, seda rikkam ja värvikam on ajaloopärand. Mida rohkematest vaatenurkadest suudame toimunut vaadelda ja hinnata, seda tõepärasema ülevaate saame. Antud juhul on meil võimalik läbi ühiskonnateadlaste, poliitikute, kultuurikorüfeede, ajaloolaste ja oma ala spetsialistide silmade saada väga mitmetahuline sissevaade oma lähiajalukku. Järjekordselt võime lugedes tõdeda, et mälestused ei ole kunagi mustvalged, vaid ääretult värvirohked ning seetõttu ka kaasahaaravad.
 
 ---
 
