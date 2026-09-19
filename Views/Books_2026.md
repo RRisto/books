@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 49 books**
+**Total: 50 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -838,6 +838,19 @@ This short book - the sequel to Rosa's path-breaking work on social acceleration
 ![[covers/Between Human and Machine Feedback Control and Computing before Cybernetics.jpg|150]]  
 
 Today, we associate the relationship between feedback, control, and computing with Norbert Wiener's 1948 formulation of cybernetics. But the theoretical and practical foundations for cybernetics, control engineering, and digital computing were laid earlier, between the two world wars. In Between Human and Feedback, Control, and Computing before Cybernetics , David A. Mindell shows how the modern sciences of systems emerged from disparate engineering cultures and their convergence during World War II. Mindell examines four different arenas of control systems research in the United States between the world naval fire control, the Sperry Gyroscope Company, the Bell Telephone Laboratories, and Vannevar Bush's laboratory at MIT. Each of these institutional sites had unique technical problems, organizational imperatives, and working environments, and each fostered a distinct engineering culture. Each also developed technologies to represent the world in a machine. At the beginning of World War II, President Roosevelt established the National Defense Research Committee, one division of which was devoted to control systems. Mindell shows how the NDRC brought together representatives from the four pre-war engineering cultures, and how its projects synthesized conceptions of control, communications, and computing. By the time Wiener articulated his vision, these ideas were already suffusing through engineering. They would profoundly influence the digital world. As a new way to conceptualize the history of computing, this book will be of great interest to historians of science, technology, and culture, as well as computer scientists and theorists. Between Human and Feedback, Control, and Computing before Cybernetics
+
+---
+
+### Brain of the Firm
+**Author:** Stafford Beer  
+**Published:** 1972  
+**Finished:** 2026-09  
+**Rating:** ⭐⭐⭐  
+**Pages:** 432  
+
+![[covers/Brain of the Firm.jpg|150]]  
+
+"Stafford Beer is undoubtedly among the world's most provocative, creative, and profound thinkers on the subject of management, and he records his thinking with a flair that is unmatched. His writing is as much art as it is science. He is the most viable system I know." Dr Russell L Ackoff, The Institute for Interactive Management, Pennsylvania, USA. "If . anyone can make it [Operations Research] understandably readable and positively interesting it is Stafford Beer . everyone in management . should be grateful to him for using clear and at times elegant English and . even elegant diagrams." The Economist This is the second edition of a book which has already become a management 'standard' both in universities and on the bookshelves of managers and their advisers. Brain of the Firm develops an account of the firm based upon insights derived from the study of the human nervous system, and is a basic text from the author's theory of viable systems. Despite the neurophysiology, the book is written for managers to understand. The companion volume to this book is The Heart of Enterprise, which is intended to support and complement this text. "Stafford Beer's works represent required reading for everyone who believes that a capacity for rigorous thinking is an essential attribute of today's successful managers and administrators. Brain of the Firm shows a first-rate intellect at work and provides concepts, models and inspiration for both practitioners and teachers." Sir Douglas Hague, CBE
 
 ---
 
