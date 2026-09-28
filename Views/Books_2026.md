@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 51 books**
+**Total: 52 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -879,6 +879,27 @@ Mida rohkem mälestusi on tulevaste põlvede jaoks talletatud, seda rikkam ja v�
 ![[covers/Sensemaking in Organizations.jpg|150]]  
 
 The teaching of organization theory and the conduct of organizational research have been dominated by a focus on decision-making and the concept of strategic rationality. However, the rational model ignores the inherent complexity and ambiguity of real-world organizations and their environments. In this landmark volume, Karl E Weick highlights how the `sensemaking′ process shapes organizational structure and behaviour. The process is seen as the creation of reality as an ongoing accomplishment that takes form when people make retrospective sense of the situations in which they find themselves.
+
+---
+
+### The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness
+**Author:** Ichiro Kishimi ,  Fumitake Koga  
+**Published:** 2013  
+**Finished:** 2026-09  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 288  
+
+![[covers/The Courage to Be Disliked How to Free Yourself Change Your Life and Achieve Real Happiness.jpg|150]]  
+
+The Japanese phenomenon that teaches us the simple yet profound lessons required to liberate our real selves and find lasting happiness.
+
+
+
+The Courage to Be Disliked shows you how to unlock the power within yourself to become your best and truest self, change your future and find lasting happiness. Using the theories of Alfred Adler, one of the three giants of 19th-century psychology alongside Freud and Jung, the authors explain how we are all free to determine our own future free of the shackles of past experiences, doubts and the expectations of others. It’s a philosophy that’s profoundly liberating, allowing us to develop the courage to change, and to ignore the limitations that we and those around us can place on ourselves.
+
+
+
+The result is a book that is both highly accessible and profound in its importance. Millions have already read and benefited from its wisdom. Now that The Courage to Be Disliked has been published for the first time in English, so can you.
 
 ---
 
