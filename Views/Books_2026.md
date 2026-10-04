@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 52 books**
+**Total: 53 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -913,6 +913,23 @@ The result is a book that is both highly accessible and profound in its importan
 ![[covers/Torupill ja nuga Alverite saaga.webp|150]]  
 
 Tükike Eesti ajalugu pajatatuna läbi ühe suguvõsa loo annab kordumatu vaate omavahel seotud elukäikudele, inimestele sündmuskeeristes ning sündmusi ja elamusi algatavatele isiksustele. Alverite suguvõsa alguse saab paigutada 17. sajandi keskpaika Tarvastu kihelkonnas – Alvre tallu. Tarvastus algatati Aleksandrikooli mõte, siin võeti osa kõikidest olulistest poliitilistest ja kultuurilistest sündmustest. Alverid ei ole oma tegevuse ja elukutsetega püsinud kitsalt ühes valdkonnas, vaid hargnenud pea igasse suunda – talurahva hulgast koolmeistriks, kunsti ja kirjandusse, poliitikasse ja tööstusesse. See on kolmsada aastat vana kogum inimesi, millel on hoomatav identiteet ja panus ajaloos. Nõnda on suguvõsa mitte ainult geneetiline, vaid ka sotsiaalne, kultuuriline ja ajalooline nähtus. Hõimlaste kaudu on perekonnanimed muutunud, kuid sellesse kuuluvad Printsmannid, Laasid, Ripsid, Madisted, Õmblused, Kallased ja paljud teised.
+
+---
+
+### Administrative Behavior
+**Author:** Herbert A. Simon  
+**Published:** 2013  
+**Finished:** 2026-10  
+**Rating:** ⭐⭐⭐⭐  
+**Pages:** 402  
+
+![[covers/Administrative Behavior.jpg|150]]  
+
+In this fourth edition of his ground-breaking work, Herbert A. Simon applies his pioneering theory of human choice and administrative decision-making to concrete organizational problems. To commemorate the fiftieth anniversary of the book's original publication, Professor Simon enhances his timeless observations on the human decision-making process with commentaries examining new facets of organizational behavior. Investigating the impact of changing social values and modem technology on the operation of organizations, the new ideas featured in this revised edition update a book that has become a worldwide classic.
+
+
+
+Named by Public Administration Review as "Book of the Half Century," Administrative Behavior is considered one of the most influential books on social science thinking, and was referred to by the Nobel Committee as "epoch-making."
 
 ---
 
