@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 56 books**
+**Total: 58 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -954,6 +954,25 @@ Drawing on the insights of both ancient and contemporary philosophers, psycholog
 
 ---
 
+### Heaolu
+**Author:** Margus Ott  
+**Published:** 2025  
+**Finished:** 2026-10  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 362  
+
+![[covers/Heaolu.jpg|150]]  
+
+Eesti filosoofi Margus Oti mahukas ja mitmekülgne essee võtab mõtiskleda selle üle, milline olemine on hea, kuidas olemine saaks veel parem olla ning missugune olemine võiks olla parim. Keskendudes eelkõige inimese heaolule, käsitleb Ott erinevaid teemasid heaolumõõdikutest inimsuheteni ja kunstidest looduskeskkonnani ning jõuab järeldusele, et olemine ise ongi juba hea, võrratu, absoluutne, kuid see saab alati olla veel parem: „Parim olu on korraga käes ja käest ära. See ongi priima.“
+
+
+
+Margus Ott (snd 1975) kaitses doktorikraadi filosoofias Tallinna Ülikooli Eesti
+
+humanitaarinstituudis 2014. aastal. Ta on õpetanud filosoofiat paljudes Eesti ülikoolides ning tema peamised uurimisteemad on keerukus, ajalisus, kehastumus ning võrdlev filosoofia. Aastatel 2015–2018 ilmus temalt kuueköiteline teos „Väekirjad“, aastal 2024 kaks ingliskeelset teost: „Embodiment Theory and Chinese Philosophy“ ja „Resonances of Neo-Confucianism“. Ott on tõlkinud eesti keelde mitmeid mõtlejaid: Gilles Deleuze, Zhuāngzi, Baruch Spinoza, Gottfried Wilhelm Leibniz, Henri Bergson ja François Jullien. Samuti on ta avaldanud antoloogia hiina vaimulugemis- ja muusikapärimuse tekstide tõlgetega („Muusika ja muundus“).
+
+---
+
 ### Inside the Box: How Constraints Make Us Better
 **Author:**   
 **Published:** 2026  
@@ -976,6 +995,31 @@ David Epstein argues that all of us—individuals, businesses, institutions, eve
 
 
 Original, galvanizing, and deeply researched, Inside the Box tells absorbing stories of people and organizations that embraced constraints to transform themselves, and the world—as well as a few that struggled from a lack of limits. Epstein celebrates the surprising potential of hard deadlines, boring goals, and unexpected obstacles. He reveals how boundaries create breakthroughs, and how setting the right constraints can help you become the most creative, productive, and satisfied version of yourself.
+
+---
+
+### Midlife: A Philosophical Guide
+**Author:** Kieran Setiya  
+**Published:** 2017  
+**Finished:** 2026-10  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 189  
+
+![[covers/Midlife A Philosophical Guide.jpg|150]]  
+
+Philosophical wisdom and practical advice for overcoming the problems of middle age
+
+
+
+How can you reconcile yourself with the lives you will never lead, with possibilities foreclosed, and with nostalgia for lost youth? How can you accept the failings of the past, the sense of futility in the tasks that consume the present, and the prospect of death that blights the future? In this self-help book with a difference, Kieran Setiya confronts the inevitable challenges of adulthood and middle age, showing how philosophy can help you thrive.
+
+
+
+You will learn why missing out might be a good thing, how options are overrated, and when you should be glad you made a mistake. You will be introduced to philosophical consolations for mortality. And you will learn what it would mean to live in the present, how it could solve your midlife crisis, and why meditation helps.
+
+
+
+Ranging from Aristotle, Schopenhauer, and John Stuart Mill to Virginia Woolf and Simone de Beauvoir, as well as drawing on Setiya's own experience, Midlife combines imaginative ideas, surprising insights, and practical advice. Writing with wisdom and wit, Setiya makes a wry but passionate case for philosophy as a guide to life.
 
 ---
 
