@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 58 books**
+**Total: 59 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -930,6 +930,27 @@ In this fourth edition of his ground-breaking work, Herbert A. Simon applies his
 
 
 Named by Public Administration Review as "Book of the Half Century," Administrative Behavior is considered one of the most influential books on social science thinking, and was referred to by the Nobel Committee as "epoch-making."
+
+---
+
+### Endless Endings: The Many Forms of Death and What They Teach Us About Life
+**Author:** Ricard Solé  
+**Published:** 2026  
+**Finished:** 2026-10  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 200  
+
+![[covers/Endless Endings The Many Forms of Death and What They Teach Us About Life.jpg|150]]  
+
+A scientific exploration of the varied forms, origins, and meanings of death
+
+
+
+While death may be one of life’s most predictable surprises, it has also proved itself to be one of the most fascinating and cutting-edge areas of scientific inquiry. Our bodies and lives tell a story of cellular creation and destruction that can be traced back to Earth’s primordial oceans. Yet when we follow the interwoven thread of beginnings and endings in an effort to discover death’s origins, nature, and meaning, we find that we cannot settle on a single definition of death or even a single interpretation of it. It would seem that there is not one death, but an endless variety of forms, each of which raises further questions about how well we understand death’s counterpoint—life.
+
+
+
+Using death as a connecting theme, in Endless Endings, Ricard Solé explores the differing meanings of death in varied forms, reflecting on questions that are pushing forward the frontiers of scientific understanding. What is the physical basis of inevitable decay? Can we manipulate cellular rules to avoid death? What does death mean if life occurs inside a computer? Can a conscious machine save itself from death? Is immortality possible? What does it mean for language, thought, or information to die? As Solé reveals, life’s endings can be just as fascinating and varied as life itself.
 
 ---
 
