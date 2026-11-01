@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 59 books**
+**Total: 60 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -1016,6 +1016,31 @@ David Epstein argues that all of us—individuals, businesses, institutions, eve
 
 
 Original, galvanizing, and deeply researched, Inside the Box tells absorbing stories of people and organizations that embraced constraints to transform themselves, and the world—as well as a few that struggled from a lack of limits. Epstein celebrates the surprising potential of hard deadlines, boring goals, and unexpected obstacles. He reveals how boundaries create breakthroughs, and how setting the right constraints can help you become the most creative, productive, and satisfied version of yourself.
+
+---
+
+### Making Sense of Chaos: A Better Economics for a Better World
+**Author:** J. Doyne Farmer  
+**Published:** 2024  
+**Finished:** 2026-10  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 364  
+
+![[covers/Making Sense of Chaos A Better Economics for a Better World.jpg|150]]  
+
+‘Doyne Farmer is the world's leading thinker on technological change. For decades he has focused on the question of how we can make sense of the data of today to see where the world is going tomorrow. This wonderful book applies these insights to economics, addressing the big global issues of environmental sustainability, and the well-being and prosperity of people around the world’ Max Roser, Founder of Our World in Data
+
+
+
+We live in an age of increasing complexity, where accelerating technology and global interconnection hold more promise – and more peril – than any other time in human history. As well as financial crises, issues around climate change, automation, growing inequality and polarization are all rooted in the economy, yet standard economic predictions fail us.
+
+
+
+Many books have been written about Doyne Farmer and his pioneering work in chaos and complexity theory. Making Sense of Chaos is the first in his own words, presenting a manifesto for doing economics better. In a tale of science and ideas, Farmer fuses his profound knowledge with stories from his life to explain how to harness a scientific revolution to address the economic conundrums facing society.
+
+
+
+Using big data and ever more powerful computers, we can for the first time apply complex systems science to economic activity, building realistic models of the global economy. The resulting simulations and the emergent behaviour we observe form the cornerstone of complexity economics. This new science, Farmer shows, will allow us to test ideas and make significantly better economic predictions – and, ultimately, create a better world.
 
 ---
 
