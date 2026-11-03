@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 60 books**
+**Total: 61 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -1079,6 +1079,19 @@ Ranging from Aristotle, Schopenhauer, and John Stuart Mill to Virginia Woolf and
 ![[covers/Systems Thinking Made Simple New Hope for Solving Wicked Problems.jpg|150]]  
 
 Systems thinking can help us solve everyday and wicked problems, increase our personal effectiveness as human beings, and transform our organizations. This book is for anyone interested in learning the foundational ideas of systems thinking. SIMPLE RULES OF SYSTEMS THINKING Systems Thinking Made Simple doesn't mean that we're going to oversimplify it like a ... for Dummies book. It means that we will show how systems thinking emerges when we focus on a simple set of rules. After years of searching for unifying principles, many experts and practitioners in the field of systems thinking have embraced DSRP as universal to all systems thinking methods. Originally a complex mathematical formulation, DSRP has since been made more accessible through powerful modeling and visualization tools. There are two surprising things about our new understanding of systems thinking. First is how simple the four rules DISTINCTIONS Any idea or thing can be distinguished from the other ideas or things it is with SYSTEMS Any idea or thing can be split into parts or lumped into a whole RELATIONSHIP Any idea or thing can relate to other things or ideas PERSPECTIVES Any thing or idea can be the point or the view of a perspective.
+
+---
+
+### Ökosemiootika. Märgiuuringud ja ökoloogiline muutus
+**Author:** Timo Maran  
+**Published:** 2022  
+**Finished:** 2026-11  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 160  
+
+![[covers/Ökosemiootika Märgiuuringud ja ökoloogiline muutus.jpg|150]]  
+
+Raamat esitab sissejuhatuse ökosemiootikasse ja näitab selle asjakohasust tänapäeva ebastabiilsete kultuuri ja looduse suhete uurimisel. Ökosemiootikat võib defineerida kui nende märgiprotsesside uurimist, millest ökoloogilised nähtused sõltuvad. Mõtisklusi esitatakse teoses kolmes etapis, ammutades inspiratsiooni nii humanitaarteadustest kui ka bioloogiast. Esimeses peatükis selgitatakse märkide vahendatud suhete mitmekesisust, ulatust ja mõju looduskeskkonnas, alates üksikindiviidi tasandist kuni ökosüsteemi funktsioneerimiseni. Teises peatükis näidatakse eri viise, kuidas eelkeelelised semiootilised suhted on osa kultuurist ning osutatakse kahjulikele keskkonnamõjudele, mille toovad kaasa enesesse sulgunud ja pelgalt sümbolipõhised märgisüsteemid. Kolmandas peatükis selgub, kuidas mudelitele ja modelleerimisele keskenduv ökosemiootiline analüüs suudab efektiivselt kaardistada tekstide ja looduskeskkonna suhteid või tuua esile nende puudumise ning kuidas saab seda lähenemist loominguliselt kasutada, et panna alus keskkonnasõbralikele kultuurivormidele ja -praktikatele. Käesolev teos on ökosemiootika esimene raamatu mahus tutvustus eesti keeles.
 
 ---
 
