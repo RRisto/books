@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 61 books**
+**Total: 62 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -1079,6 +1079,43 @@ Ranging from Aristotle, Schopenhauer, and John Stuart Mill to Virginia Woolf and
 ![[covers/Systems Thinking Made Simple New Hope for Solving Wicked Problems.jpg|150]]  
 
 Systems thinking can help us solve everyday and wicked problems, increase our personal effectiveness as human beings, and transform our organizations. This book is for anyone interested in learning the foundational ideas of systems thinking. SIMPLE RULES OF SYSTEMS THINKING Systems Thinking Made Simple doesn't mean that we're going to oversimplify it like a ... for Dummies book. It means that we will show how systems thinking emerges when we focus on a simple set of rules. After years of searching for unifying principles, many experts and practitioners in the field of systems thinking have embraced DSRP as universal to all systems thinking methods. Originally a complex mathematical formulation, DSRP has since been made more accessible through powerful modeling and visualization tools. There are two surprising things about our new understanding of systems thinking. First is how simple the four rules DISTINCTIONS Any idea or thing can be distinguished from the other ideas or things it is with SYSTEMS Any idea or thing can be split into parts or lumped into a whole RELATIONSHIP Any idea or thing can relate to other things or ideas PERSPECTIVES Any thing or idea can be the point or the view of a perspective.
+
+---
+
+### Systems Thinking for Business and Management: Principles and Practice
+**Author:** Professor Umit S Bititci ,  Agnessa Spanellis  
+**Published:** 2023  
+**Finished:** 2026-11  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 296  
+
+![[covers/Systems Thinking for Business and Management Principles and Practice.jpg|150]]  
+
+This core textbook provides a practical, holistic introduction to systems thinking.
+
+
+
+Blending theory and practice, Systems Thinking for Business and Management reviews the fundamentals and includes a wide range of global cases and examples from business, showing how systems thinking can be applied to real-world organizational contexts. Students will learn to apply their knowledge to solve business system problems, carry out systemic organizational analysis and design solutions to address complex organizational problems. They will build valuable skills in systems analysis, business process modelling, problem solving and decision making.
+
+
+
+Features
+
+
+
+· An evaluation of the different models, theories and frameworks for generic systems, system properties and system classifications
+
+· An overview of the different methods used for modelling and analysing different systems, specifically hard systems, soft systems and complex systems
+
+· Discussion of how system thinkers can imagine and model future systems
+
+· Experiential, engaging pedagogy, such as practical activities and reflective exercises in each chapter
+
+· Online resources to support teaching and learning, such as a customizable set of PowerPoint slides and video links
+
+
+
+The book's approach has been tried and tested over ten years of teaching. It will be an essential text for introductory modules on systems thinking at undergraduate, postgraduate and MBA levels. It will also be of interest to practitioners looking to apply systems thinking to improve their organizations.
 
 ---
 
