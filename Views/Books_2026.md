@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 62 books**
+**Total: 63 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -1079,6 +1079,23 @@ Ranging from Aristotle, Schopenhauer, and John Stuart Mill to Virginia Woolf and
 ![[covers/Systems Thinking Made Simple New Hope for Solving Wicked Problems.jpg|150]]  
 
 Systems thinking can help us solve everyday and wicked problems, increase our personal effectiveness as human beings, and transform our organizations. This book is for anyone interested in learning the foundational ideas of systems thinking. SIMPLE RULES OF SYSTEMS THINKING Systems Thinking Made Simple doesn't mean that we're going to oversimplify it like a ... for Dummies book. It means that we will show how systems thinking emerges when we focus on a simple set of rules. After years of searching for unifying principles, many experts and practitioners in the field of systems thinking have embraced DSRP as universal to all systems thinking methods. Originally a complex mathematical formulation, DSRP has since been made more accessible through powerful modeling and visualization tools. There are two surprising things about our new understanding of systems thinking. First is how simple the four rules DISTINCTIONS Any idea or thing can be distinguished from the other ideas or things it is with SYSTEMS Any idea or thing can be split into parts or lumped into a whole RELATIONSHIP Any idea or thing can relate to other things or ideas PERSPECTIVES Any thing or idea can be the point or the view of a perspective.
+
+---
+
+### An Introduction to Agent-Based Modeling: Modeling Natural, Social, and Engineered Complex Systems with NetLogo. Modeling Natural, Social, and Engineered Complex Systems with NetLogo
+**Author:** Uri Wilensky, William Rand  
+**Published:** 2015  
+**Finished:** 2026-11  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 184  
+
+![[covers/An Introduction to Agent-Based Modeling Modeling Natural Social and Engineered Complex Systems with NetLogo Modeling Natural Social and Engineered Complex Systems with NetLogo.jpg|150]]  
+
+A comprehensive and hands-on introduction to the core concepts, methods, and applications of agent-based modeling, including detailed NetLogo examples.The advent of widespread fast computing has enabled us to work on more complex problems and to build and analyze more complex models. This book provides an introduction to one of the primary methodologies for research in this new field of knowledge. Agent-based modeling (ABM) offers a new way of doing by conducting computer-based experiments. ABM is applicable to complex systems embedded in natural, social, and engineered contexts, across domains that range from engineering to ecology. An Introduction to Agent-Based Modeling offers a comprehensive description of the core concepts, methods, and applications of ABM. Its hands-on approach—with hundreds of examples and exercises using NetLogo—enables readers to begin constructing models immediately, regardless of experience or discipline.
+
+
+
+The book first describes the nature and rationale of agent-based modeling, then presents the methodology for designing and building ABMs, and finally discusses how to utilize ABMs to answer complex questions. Features in each chapter include step-by-step guides to developing models in the main text; text boxes with additional information and concepts; end-of-chapter explorations; and references and lists of relevant reading. There is also an accompanying website with all the models and code.
 
 ---
 
