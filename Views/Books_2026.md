@@ -1,6 +1,6 @@
 # Books Read in 2026
 
-**Total: 64 books**
+**Total: 65 books**
 
 ### Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great
 **Author:** Eric Ries  
@@ -1146,6 +1146,19 @@ Features
 
 
 The book's approach has been tried and tested over ten years of teaching. It will be an essential text for introductory modules on systems thinking at undergraduate, postgraduate and MBA levels. It will also be of interest to practitioners looking to apply systems thinking to improve their organizations.
+
+---
+
+### Tipping Out of Trouble: How Societies Transformed and How We Can Do So Again
+**Author:** Marten Scheffer  
+**Published:** 2026  
+**Finished:** 2026-11  
+**Rating:** ⭐⭐⭐⭐⭐  
+**Pages:** 284  
+
+![[covers/Tipping Out of Trouble How Societies Transformed and How We Can Do So Again.jpg|150]]  
+
+What kind of trouble lies ahead? How can we successfully transition towards a sustainable future? Drawing on a remarkably broad range of insights from complex systems and the functioning of the brain to the history of civilizations and the workings of modern societies, the distinguished scientist Marten Scheffer addresses these key questions of our times. He looks to the past to show how societies have tipped out of trouble before, the mechanisms that drive social transformations and the invisible hands holding us back. He traces how long-standing practices such as the slave trade and foot-binding were suddenly abandoned and how entire civilizations have collapsed to make way for something new. Could we be heading for a similarly dramatic change? Marten Scheffer argues that a dark future is plausible but not yet inevitable and he provides us instead with a hopeful roadmap to steer ourselves away from collapse-and toward renewal.
 
 ---
 
